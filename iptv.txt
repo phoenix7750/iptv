@@ -20,7 +20,6 @@ CCTV17,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236200/index
 CCTV-4 欧洲,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236378/index.m3u8
 CCTV-4 美洲,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236335/index.m3u8
 CCTV 4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8
-CCTV 8K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236272/index.m3u8
 
 中数,#genre#
 电视指南,http://180.106.225.140:7777/rtp/239.49.8.84:8000

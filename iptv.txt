@@ -238,9 +238,9 @@ Love Nature 4K,http://b4fc924a.megogo.xyz/iptv/EBZAHVSS93K5TA/5001/index.m3u8
 MyZen TV 4K,http://b4fc924a.megogo.xyz/iptv/EBZAHVSS93K5TA/5002/index.m3u8
 
 电影,#genre#
-CHC高清电影,http://111.170.82.136:9999/rtp/239.69.1.241:11088
-CHC家庭影院,http://111.170.82.136:9999/rtp/239.69.1.243:11100
-CHC动作电影,http://111.170.82.136:9999/rtp/239.69.1.242:11094
+CHC高清电影,http://118.249.20.125:9999/rtp/239.76.245.242:1234
+CHC动作电影,http://118.249.20.125:9999/rtp/239.76.245.243:1234
+CHC家庭影院,http://118.249.20.125:9999/rtp/239.76.245.241:1234
 4K超清,http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.249:8001
 淘电影,http://bjuni.iptv.im2k.com:5018/rtp/239.3.1.250:8001
 百事通电影4K,http://dns.161015.xyz:33334/rtp/239.45.1.42:5140

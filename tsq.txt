@@ -364,8 +364,6 @@ Animal Planet,http://b4fc924a.megogo.xyz/iptv/EBZAHVSS93K5TA/7257/index.m3u8
 NGC WILD,http://b4fc924a.megogo.xyz/iptv/EBZAHVSS93K5TA/216/index.m3u8
 NGC 1,http://b4fc924a.megogo.xyz/iptv/EBZAHVSS93K5TA/14000/index.m3u8
 NGC 2,http://b4fc924a.megogo.xyz/iptv/EBZAHVSS93K5TA/12056/index.m3u8
-NGC 3,http://b4fc924a.megogo.xyz/iptv/EBZAHVSS93K5TA/6991/index.m3u8
-NGC 4,http://b4fc924a.megogo.xyz/iptv/EBZAHVSS93K5TA/14002/index.m3u8
 NGC Abu Dhabi,http://b4fc924a.megogo.xyz/iptv/EBZAHVSS93K5TA/15200/index.m3u8
 HBO,http://b4fc924a.megogo.xyz/iptv/EBZAHVSS93K5TA/19428/index.m3u8
 HBO HD,http://b4fc924a.megogo.xyz/iptv/EBZAHVSS93K5TA/6986/index.m3u8
@@ -378,6 +376,6 @@ Rex UHD 4K,http://b4fc924a.megogo.xyz/iptv/EBZAHVSS93K5TA/14029/index.m3u8
 TRT 4K,http://b4fc924a.megogo.xyz/iptv/EBZAHVSS93K5TA/4001/index.m3u8
 Quadro 4К,http://b4fc924a.megogo.xyz/iptv/EBZAHVSS93K5TA/19262/index.m3u8
 Home 4K,http://b4fc924a.megogo.xyz/iptv/EBZAHVSS93K5TA/4002/index.m3u8
-Fashion TV 4K,http://b4fc924a.megogo.xyz/iptv/EBZAHVSS93K5TA/4005/index.m3u8
+Fashion TV,http://b4fc924a.megogo.xyz/iptv/EBZAHVSS93K5TA/4005/index.m3u8
 Love Nature 4K,http://b4fc924a.megogo.xyz/iptv/EBZAHVSS93K5TA/5001/index.m3u8
 MyZen TV 4K,http://b4fc924a.megogo.xyz/iptv/EBZAHVSS93K5TA/5002/index.m3u8

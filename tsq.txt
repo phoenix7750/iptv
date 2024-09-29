@@ -368,6 +368,11 @@ NGC Abu Dhabi,http://b4fc924a.megogo.xyz/iptv/EBZAHVSS93K5TA/15200/index.m3u8
 HBO,http://b4fc924a.megogo.xyz/iptv/EBZAHVSS93K5TA/19428/index.m3u8
 HBO HD,http://b4fc924a.megogo.xyz/iptv/EBZAHVSS93K5TA/6986/index.m3u8
 HBO 2 HD,http://b4fc924a.megogo.xyz/iptv/EBZAHVSS93K5TA/7005/index.m3u8
+CCTV女性时尚,http://36.49.50.124:8800/rtp/239.37.0.069:5540
+CCTV世界地理,http://36.49.50.124:8800/rtp/239.37.0.079:5540
+CCTV第一剧场,http://36.49.50.124:8800/rtp/239.37.0.078:5540
+CCTV风云足球,http://36.49.50.124:8800/rtp/239.37.0.080:5540
+CCTV风云音乐,http://36.49.50.124:8800/rtp/239.37.0.081:5540
 
 4K,#genre#
 TravelXP 4K,http://b4fc924a.megogo.xyz/iptv/EBZAHVSS93K5TA/14026/index.m3u8

@@ -178,7 +178,7 @@
        
 {"key":"学外语","name":"🇹┃教育专区┃外语","type":3,"api":"csp_Bili","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"./lib/waiyu.json"},
         
-{"key": "ext_live_protocol","name": "微信号:4409878","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"changeable": 0},
+{"key": "ext_live_protocol","name": "Github","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"changeable": 0},
        
 {"key": "cc","name": "请勿相信视频中任何广告","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0}],
 

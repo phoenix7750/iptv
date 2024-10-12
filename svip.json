@@ -70,15 +70,6 @@
       "filterable": 1,
       "jar": "https://download.kstore.space/download/2883/nzk/0819.jar;md5;380A08E7735A86D85AAA24E9A1C77AF3"
     },
-    {
-      "key": "freeok",
-      "name": "🇹┃freeok线┃秒播",
-      "type": 3,
-      "jar": "./lib/xm.jar",
-      "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-      "api": "csp_FreeOK"
-    },
-
        {
       "key": "蚂蚁",
       "name": "🇹┃蚂蚁影视┃秒播",

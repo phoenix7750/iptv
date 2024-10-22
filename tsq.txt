@@ -1,4 +1,4 @@
-央视,#genre#,http://epg.hackserver.net/epg.php
+央视,#genre#
 CCTV1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229840/1.m3u8
 CCTV2,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236163/1.m3u8
 CCTV3,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230740/1.m3u8

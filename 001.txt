@@ -679,7 +679,7 @@ TINK 4K,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/6258/index.m3u8
 ANGELS 3,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/6259/index.m3u8
 SEXART,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/6253/index.m3u8
 
-欧美激情区,#genre#
+欧美激情区_520,#genre#
 12110[1920x1080],http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/12105/index.m3u8
 12112[1920x1080],http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/12106/index.m3u8
 12113[1920x1080],http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/12107/index.m3u8

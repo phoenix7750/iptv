@@ -20,7 +20,13 @@
       "searchable": 1,
       "changeable": 1
     },
-
+{
+      "key": "nangua",
+      "name": "🎃┃南瓜影视┃秒播",
+      "type": 3,
+      "playerType": "2",
+      "api": "http://js.xn--z7x900a.com/js/ng_open.js"
+    },
     {
       "key": "✨YY影视✨",
       "name": "🇹┃天微专享┃秒播",

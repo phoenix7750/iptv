@@ -153,42 +153,41 @@ Movie,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/1.m3u8
 睛彩广场舞,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/1.m3u8
 
 TW,#genre#
-民视第一,http://37.27.111.214:8080/live/4/hls.m3u8
-民视台湾,http://37.27.111.214:8080/live/5/hls.m3u8
-民视,http://37.27.111.214:8080/live/6/hls.m3u8
-中视,http://37.27.111.214:8080/live/7/hls.m3u8
-华视,,http://37.27.111.214:8080/live/8/hls.m3u8
-亚洲旅游,,http://37.27.111.214:8080/live/11/hls.m3u8
-nickelodeon,http://37.27.111.214:8080/live/12/hls.m3u8
-博斯高球,http://37.27.111.214:8080/live/13/hls.m3u8
-博斯运动,http://37.27.111.214:8080/live/14/hls.m3u8
-博斯无限,http://37.27.111.214:8080/live/15/hls.m3u8
-龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
-东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
-TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
-TVBS新闻，http://61.221.215.25:8800/hls/9/1.m3u8
-TVBS欢乐台,http://37.27.111.214:8080/live/24/hls.m3u8
-MTV,http://37.27.111.214:8080/live/25/hls.m3u8
-居家,http://37.27.111.214:8080/live/26/hls.m3u8
-HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
-HITS,http://37.27.111.214:8080/live/28/hls.m3u8
-cinemaWorld,http://37.27.111.214:8080/live/30/hls.m3u8
-三立综合,http://37.27.111.214:8080/live/31/hls.m3u8
-八大综合台,http://61.221.215.25:8800/hls/56/1.m3u8
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-中华小家,http://61.221.215.25:8800/hls/40/index.m3u8
-AMC影台,http://61.221.215.25:8800/hls/43/index.m3u8
-凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-49号频道,http://61.221.215.25:8800/hls/49/index.m3u8
-探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
-nhk world,http://61.221.215.25:8800/hls/51/index.m3u8
-D-box,http://61.221.215.25:8800/hls/54/index.m3u8
-LISTEN ON SPOTIFY,http://61.221.215.25:8800/hls/58/index.m3u8
+台视,http://litv.zapi.us.kg/?id=4gtv-4gtv066
+中视,http://litv.zapi.us.kg/?id=4gtv-4gtv040
+华视,http://litv.zapi.us.kg/?id=4gtv-4gtv041
+民视,http://litv.zapi.us.kg/?id=4gtv-4gtv002
+非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
+镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
+民视新闻,http://litv.zapi.us.kg/?id=litv-ftv13
+中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074
+华视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv052
+中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
+东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
+TVBS-N,http://litv.zapi.us.kg/?id=4gtv-4gtv072
+TVBS HD,http://litv.zapi.us.kg/?id=4gtv-4gtv073
+TVBS 精采,http://litv.zapi.us.kg/?id=4gtv-4gtv067
+TVBS 欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068
+八大精彩,http://litv.zapi.us.kg/?id=4gtv-4gtv034
+八大综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv039
+靖洋戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv045
+靖洋卡通,http://litv.zapi.us.kg/?id=4gtv-4gtv057
+靖天卡通,http://litv.zapi.us.kg/?id=4gtv-4gtv044
+靖天综合,http://litv.zapi.us.kg/?id=4gtv-4gtv046
+靖天日本,http://litv.zapi.us.kg/?id=4gtv-4gtv047
+靖天欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv054
+靖天映画,http://litv.zapi.us.kg/?id=4gtv-4gtv055
+靖天戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv058
+靖天电影,http://litv.zapi.us.kg/?id=4gtv-4gtv061
+靖天育乐,http://litv.zapi.us.kg/?id=4gtv-4gtv062
+靖天国际,http://litv.zapi.us.kg/?id=4gtv-4gtv063
+靖天资讯,http://litv.zapi.us.kg/?id=4gtv-4gtv065
+龙华卡通,http://litv.zapi.us.kg/?id=litv-longturn01
+龙华日韩,http://litv.zapi.us.kg/?id=litv-longturn11
+龙华偶像,http://litv.zapi.us.kg/?id=litv-longturn12
+龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03
+龙华戏剧,http://litv.zapi.us.kg/?id=litv-longturn18
+龙华经典,http://litv.zapi.us.kg/?id=litv-longturn21
 
 咪咕体育,#genre#
 咪咕直播 𝟙「IPV6」,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/1.m3u8

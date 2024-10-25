@@ -62,7 +62,6 @@
       "playerType": 1,
       "filterable": 1
     },
-{"key":"文采","name":"🇹┃文采官源┃秒播","type":3,"api":"csp_Jpys","jar": "https://gitee.com/tvkeji/jar/raw/master/CK/ttkx.jar","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"360影视","name":"🇹┃三六零官┃秒播","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"芒果","name":"🇹┃芒果官源┃秒播","type":3,"api":"./lib/drpy_libs/drpy2.min.js","ext":"./lib/芒果.js"},
 {"key":"爱奇艺","name":"🇹┃爱奇艺官┃秒播","type":3,"api":"./lib/drpy_libs/drpy2.min.js","ext":"./lib/爱奇艺.js"},

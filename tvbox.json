@@ -2,7 +2,7 @@
 "wallpaper": "https://深色壁纸.xxooo.cf/",
 "logo": "https://qixing.myhkw.com/tw.jpg",
  "lives": [
-{"name": "电视直播","type": 0,"url": "https://raw.bgithub.xyz/phoenix7750/iptv/main/tvbox.txt","epg": "https://epg.zxyxndc.top/?ch={name}&date={date}"}, ],
+{"name": "电视直播","type": 0,"url": "https://raw.bgithub.xyz/phoenix7750/iptv/main/tvbox.txt","epg": "https://epg.zxyxndc.top/?ch={name}&date={date}"} ],
 
 "sites":[
 

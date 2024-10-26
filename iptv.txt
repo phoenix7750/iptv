@@ -34,6 +34,7 @@ CCTV 4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/1.
 央视台球,http://180.103.165.68:8888/rtp/239.49.8.32:8000
 女性时尚,http://180.103.165.68:8888/rtp/239.49.8.93:8000
 高尔夫网球,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/1/1.m3u8
+淘电影,http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CHC高清电影, http://219.138.73.45:8888/rtp/239.69.1.241:11088
 CHC动作电影, http://219.138.73.45:8888/rtp/239.69.1.242:11094
 CHC家庭影院, http://219.138.73.45:8888/rtp/239.69.1.243:11100

@@ -2,10 +2,10 @@
 "wallpaper": "https://深色壁纸.xxooo.cf/",
 "logo": "https://qixing.myhkw.com/tw.jpg",
  "lives": [
-{"name": "浙江移动","type": 0,"url": "https://raw.bgithub.xyz/phoenix7750/iptv/main/tsq.txt","epg": "https://epg.zxyxndc.top/?ch={name}&date={date}"},
-{"name": "全网通","type": 0,"url": "https://raw.bgithub.xyz/phoenix7750/iptv/main/all.txt","epg": "https://epg.zxyxndc.top/?ch={name}&date={date}"},
+{"name": "浙江移动","type": 0,"url": "https://raw.githubusercontent.com/phoenix7750/iptv/main/tsq.txt","epg": "https://epg.zxyxndc.top/?ch={name}&date={date}"},
+{"name": "全网通","type": 0,"url": "https://raw.githubusercontent.com/phoenix7750/iptv/main/all.txt","epg": "https://epg.zxyxndc.top/?ch={name}&date={date}"},
 {"name": "备用","type": 0,"url": "https://gitee.com/hbo2/iptv/raw/master/iptv.txt","epg": "https://epg.zxyxndc.top/?ch={name}&date={date}"},
-{"name": "18+",      "type": 0, "url": "https://raw.bgithub.xyz/phoenix7750/iptv/main/001.txt",      "playerType": 1    } ],
+{"name": "18+",      "type": 0, "url": "raw.githubusercontent.com/phoenix7750/iptv/main/001.txt",      "playerType": 1    } ],
 
 "sites":[
 

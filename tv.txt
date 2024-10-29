@@ -1,0 +1,13 @@
+{
+urls:
+[
+{"name": "🌟独步云端🌟","url": "https://raw.bgithub.xyz/phoenix7750/iptv/refs/heads/main/svip.json"},
+{"name": "🌟饭太硬🌟","url": "http://www.饭太硬.com/tv/"},
+{"name": "🌟盒子迷🌟","url": "https://盒子迷.top/禁止贩卖"},
+{"name": "🌟OK线路🌟","url": "http://py.nxog.top/1/?ou=http://ok321.top/ok"},
+{"name": "🌟喵影线路🌟","url": "http://meowtv.top/tv"},
+{"name": "🌟巧技线路🌟","url": "http://cdn.qiaoji8.com/tvbox.json"},
+{"name": "🌟云星日记🌟","url": "http://itvbox.cc/云星日记"},
+{"name": "🌟🔞成人线路🌟","url": "https://raw.bgithub.xyz/phoenix7750/iptv/refs/heads/main/18.json"}
+]
+}

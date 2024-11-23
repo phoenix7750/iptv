@@ -10,6 +10,6 @@ urls:
 {"name": "💖小马线路💖","url": "https://szyyds.cn/tv/x.json"},
 {"name": "💚巧技线路💚","url": "http://cdn.qiaoji8.com/tvbox.json"},
 {"name": "🌟星辰影视🌟","url": "https://fmbox.cc/"},
-{"name": "💖🔞成人线路💖","url": "https://raw.bgithub.xyz/phoenix7750/iptv/main/18.json"}
+{"name": "💖🔞成人线路💖","url": "https://raw.bgithub.xyz/phoenix7750/iptv/refs/heads/main/18.json"}
 ]
 }

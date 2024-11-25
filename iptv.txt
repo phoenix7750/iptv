@@ -38,6 +38,7 @@ CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_c
 求索科学,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000011/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000011
 求索记录4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/1/1.m3u8
 Fashion,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 重温经典,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/1.m3u8
 Y+剧场,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1/1.m3u8
 Drama,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236208/1.m3u8
@@ -220,7 +221,6 @@ CETV4,http://39.134.136.161:6610/000000001000/5000000011000031126/index.m3u8?liv
 青海卫视,http://39.134.136.161:6610/000000001000/1000000002000013359/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000013359
 海南卫视,http://39.134.136.161:6610/000000001000/5000000004000006211/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000006211
 三沙卫视,http://39.134.136.161:6610/000000001000/5000000011000288016/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000288016
-4K影院,http://39.134.136.161:6610/000000001000/6000000003000004748/index.m3u8?livemode=1&stbId=1213&channel-id=wasusyt&Contentid=6000000003000004748
 
 AKTV,#genre#
 鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8	
@@ -258,7 +258,7 @@ tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8	
 龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8	
 Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8	
-TVB 星河台,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8	
+TVB星河台,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8	
 viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8	
 viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8	
 无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8	
@@ -297,8 +297,8 @@ HOY TV 資訊台,https://live.hkdvb.com/hls/live/78.m3u8?token=275839252947068
 HOY 國際財經台,https://live.hkdvb.com/hls/live/76.m3u8?token=275839252947068
 ViuTV,https://live.hkdvb.com/hls/live/99.m3u8?token=275839252947068
 ViuTV Six,https://live.hkdvb.com/hls/live/96.m3u8?token=275839252947068
-Now Popcorn 爆谷台,https://live.hkdvb.com/hls/live/133.m3u8?token=275839252947068
-Now Superstars 星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=275839252947068
+Now爆谷台,https://live.hkdvb.com/hls/live/133.m3u8?token=275839252947068
+Now星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=275839252947068
 Now NEWS 新聞台,https://live.hkdvb.com/hls/live/332.m3u8?token=275839252947068
 Now Sports 英超1台,https://live.hkdvb.com/hls/live/621.m3u8?token=275839252947068
 Now Sports Prime,https://live.hkdvb.com/hls/live/630.m3u8?token=275839252947068

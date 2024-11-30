@@ -312,12 +312,9 @@ CGTN Documentary,https://live.hkdvb.com/hls/live/34.m3u8?token=275839252947068
 CGTN English,https://live.hkdvb.com/hls/live/35.m3u8?token=275839252947068
 
 湾湾4G,#genre#
-东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8  
-TVBS,http://37.27.111.214:8080/live/23/hls.m3u8  
 中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
 tvbs新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
-寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn14
 非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
 闽镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
 民视新闻,http://litv.zapi.us.kg/?id=litv-ftv13

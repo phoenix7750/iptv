@@ -114,6 +114,27 @@ Movie,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/1.m3u8
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江之江记录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+移动IPTV,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229434/1/index.m3u8
+嘉兴新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235458/396328931.smil/index.m3u8?fmt=ts2hls
+嘉兴文化影视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235447/396328931.smil/index.m3u8?fmt=ts2hls
+嘉兴公共频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235460/396328931.smil/index.m3u8?fmt=ts2hls
+金华教育科技,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234568/1/index.m3u8?
+金华新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234612/1/index.m3u8?
+金华公共频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234615/1/index.m3u8?
+衢州新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235441/1/index.m3u8
+衢州公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235443/1/index.m3u8
+舟山公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235445/1/index.m3u8
+舟山新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235449/1/index.m3u8
+丽水新闻综合http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235523/1/index.m3u8
+丽水公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235524/1/index.m3u8
+湖州公共频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235526/1/index.m3u8
+湖州新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235527/1/index.m3u8
+湖州文化娱乐,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235529/1/index.m3u8
+宁波TV-1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235593/1/index.m3u8
+宁波TV-2,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235606/1/index.m3u8
+宁波TV-3,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235595/1/index.m3u8
+宁波TV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/index.m3u8
+好易购,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233800/1/index.m3u8
 
 黑龙江,#genre# 
 CCTV-1 综合,http://39.135.133.170/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8

@@ -194,29 +194,29 @@ CCTV-17,http://39.134.65.181/PLTV/88888888/224/3221225708/1.m3u8
 海南卫视,http://39.134.68.155:6610/PLTV/88888888/224/3221226465/index.m3u8?
 
 高码,#genre#
-CCTV-1,http://117.144.58.42:35455/gaoma/cctv1.m3u8
-CCTV-2,http://117.144.58.42:35455/gaoma/cctv2.m3u8
-CCTV-3,http://117.144.58.42:35455/gaoma/cctv3.m3u8
-CCTV-4,http://117.144.58.42:35455/gaoma/cctv4.m3u8
-CCTV-5,http://117.144.58.42:35455/gaoma/cctv5.m3u8
-CCTV-5+,http://117.144.58.42:35455/gaoma/cctv5p.m3u8
-CCTV-7,http://117.144.58.42:35455/gaoma/cctv7.m3u8
-CCTV-8,http://117.144.58.42:35455/gaoma/cctv8.m3u8
-CCTV-9,http://117.144.58.42:35455/gaoma/cctv9.m3u8
-CCTV-10,http://117.144.58.42:35455/gaoma/cctv10.m3u8
-CCTV-11,http://117.144.58.42:35455/gaoma/cctv11.m3u8
-CCTV-12,http://117.144.58.42:35455/gaoma/cctv12.m3u8
-CCTV-13,http://117.144.58.42:35455/gaoma/cctv13.m3u8
-CCTV-14,http://117.144.58.42:35455/gaoma/cctv14.m3u8
-CCTV-15,http://117.144.58.42:35455/gaoma/cctv15.m3u8
-CCTV-16,http://117.144.58.42:35455/gaoma/cctv16.m3u8
-CCTV-17,http://117.144.58.42:35455/gaoma/cctv17.m3u8
-CGTN,http://117.144.58.42:35455/gaoma/cgtnen.m3u8
-CGTN 纪录,http://117.144.58.42:35455/gaoma/cgtndoc.m3u8
-CGTN 阿拉伯,http://117.144.58.42:35455/gaoma/cgtnar.m3u8
-CGTN 法语,http://117.144.58.42:35455/gaoma/cgtnfr.m3u8
-CGTN 俄罗斯,http://117.144.58.42:35455/gaoma/cgtnru.m3u8
-CGTN 西班牙,http://117.144.58.42:35455/gaoma/cgtnsp.m3u8
+CCTV-1,http://b.zgjok.com:35455/gaoma/cctv1.m3u8
+CCTV-2,http://b.zgjok.com:35455/gaoma/cctv2.m3u8
+CCTV-3,http://b.zgjok.com:35455/gaoma/cctv3.m3u8
+CCTV-4,http://b.zgjok.com:35455/gaoma/cctv4.m3u8
+CCTV-5,http://b.zgjok.com:35455/gaoma/cctv5.m3u8
+CCTV-5+,http://b.zgjok.com:35455/gaoma/cctv5p.m3u8
+CCTV-7,http://b.zgjok.com:35455/gaoma/cctv7.m3u8
+CCTV-8,http://b.zgjok.com:35455/gaoma/cctv8.m3u8
+CCTV-9,http://b.zgjok.com:35455/gaoma/cctv9.m3u8
+CCTV-10,http://b.zgjok.com:35455/gaoma/cctv10.m3u8
+CCTV-11,http://b.zgjok.com:35455/gaoma/cctv11.m3u8
+CCTV-12,http://b.zgjok.com:35455/gaoma/cctv12.m3u8
+CCTV-13,http://b.zgjok.com:35455/gaoma/cctv13.m3u8
+CCTV-14,http://b.zgjok.com:35455/gaoma/cctv14.m3u8
+CCTV-15,http://b.zgjok.com:35455/gaoma/cctv15.m3u8
+CCTV-16,http://b.zgjok.com:35455/gaoma/cctv16.m3u8
+CCTV-17,http://b.zgjok.com:35455/gaoma/cctv17.m3u8
+CGTN,http://b.zgjok.com:35455/gaoma/cgtnen.m3u8
+CGTN 纪录,http://b.zgjok.com:35455/gaoma/cgtndoc.m3u8
+CGTN 阿拉伯,http://b.zgjok.com:35455/gaoma/cgtnar.m3u8
+CGTN 法语,http://b.zgjok.com:35455/gaoma/cgtnfr.m3u8
+CGTN 俄罗斯,http://b.zgjok.com:35455/gaoma/cgtnru.m3u8
+CGTN 西班牙,http://b.zgjok.com:35455/gaoma/cgtnsp.m3u8
 
 AKTV,#genre#
 鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8

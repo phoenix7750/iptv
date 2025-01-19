@@ -5,7 +5,6 @@ urls:
 {"name": "🌟饭太硬🌟","url": "https://raw.bgithub.xyz/ls125781003/tvboxtg/refs/heads/main/饭太硬/api.json"},
 {"name": "💖盒子迷💖","url": "https://盒子迷.top/禁止贩卖"},
 {"name": "💚肥猫影视💚","url": "http://肥猫.com"},
-{"name": "🌟OK线路🌟","url": "http://py.nxog.top/1/?ou=http://ok321.top/ok"},
 {"name": "📢喵影线路📢","url": "http://meowtv.top/tv"},
 {"name": "💖小马线路💖","url": "https://szyyds.cn/tv/x.json"},
 {"name": "💚巧技线路💚","url": "http://cdn.qiaoji8.com/tvbox.json"},

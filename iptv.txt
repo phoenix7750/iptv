@@ -282,15 +282,3 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-
-💓4K(Test),#genre#
-凤凰中文,http://223.105.252.59/PLTV/3/224/3221228527/1.m3u8
-凤凰资讯,http://223.105.252.59/PLTV/3/224/3221228524/1.m3u8
-凤凰香港,http://223.105.252.59/PLTV/3/224/3221228530/1.m3u8
-Love_Nature_4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Loupe_4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-Fashion_4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-CCTV1,http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1
-CCTV3,http://223.105.252.59/PLTV/4/224/3221228499/index.m3u8?servicetype=1
-CCTV5,http://223.105.252.61/PLTV/4/224/3221228502/index.m3u8?servicetype=1
-CCTV16(4K),http://223.105.252.59/PLTV/4/224/3221228314/index.m3u8?servicetype=1

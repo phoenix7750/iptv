@@ -29,10 +29,6 @@ CCTV4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/1.m
 淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND&GuardEncType=2
 淘剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2
 淘娱乐,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2
-求索生活,http://39.134.136.161:6610/000000001000/2000000004000000008/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000008
-求索动物,http://39.134.136.161:6610/000000001000/2000000004000000009/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000009
-求索纪录,http://39.134.136.161:6610/000000001000/2000000004000000010/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000010
-求索科学,http://39.134.136.161:6610/000000001000/2000000004000000011/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000011
 求索记录4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/1/1.m3u8
 Fashion,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -99,34 +95,6 @@ Movie,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/1.m3u8
 淘精彩,http://123.117.36.163:4001/udp/239.3.1.178:8001
 淘Baby,http://123.117.36.163:4001/udp/239.3.1.238:8001
 萌宠TV,http://123.117.36.163:4001/udp/239.3.1.102:8001
-
-上海,#genre#
-中国天气,http://39.134.136.161:6610/000000001000/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=3
-第一财经,http://39.134.136.161:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004
-东方财经,http://39.134.136.161:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090
-上海新闻综合,http://39.134.136.161:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005
-上海都市,http://39.134.136.161:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012
-五星体育,http://39.134.136.161:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007
-东方影视,http://39.134.136.161:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013
-法治天地,http://39.134.136.161:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014
-劲爆体育,http://39.134.136.161:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008
-欢笑剧场,http://39.134.136.161:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016
-动漫秀场,http://39.134.136.161:6610/000000001000/2000000002000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000009
-游戏风云,http://39.134.136.161:6610/000000001000/2000000002000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000011
-生活时尚,http://39.134.136.161:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006
-都市剧场,http://39.134.136.161:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015
-金色学堂,http://39.134.136.161:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061
-魅力足球,http://39.134.136.161:6610/000000001000/2000000002000000068/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000068
-乐游,http://39.134.136.161:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010
-茶频道,http://39.134.136.161:6610/000000001000/2000000002000000070/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000070
-国外影视,http://39.134.136.161:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014
-TEST01,http://39.134.136.161:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001
-TEST02,http://39.134.136.161:6610/000000001000/1000000005000265021/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265021
-睛彩竞技,http://39.134.136.161:6610/000000001000/2000000003000000060/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000060
-睛彩篮球,http://39.134.136.161:6610/000000001000/2000000003000000061/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000061
-睛彩青少,http://39.134.136.161:6610/000000001000/2000000003000000068/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000068
-睛彩广场舞,http://39.134.136.161:6610/000000001000/2000000003000000064/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000064
-
 
 浙江,#genre#
 浙江钱江都市,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233005/1/index.m3u8

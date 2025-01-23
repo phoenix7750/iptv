@@ -166,7 +166,7 @@ CGTN 法语,http://b.zgjok.com:35455/gaoma/cgtnfr.m3u8
 CGTN 俄语,http://b.zgjok.com:35455/gaoma/cgtnru.m3u8
 CGTN 西语,http://b.zgjok.com:35455/gaoma/cgtnsp.m3u8
 
-央视4K,#genre#
+江苏移动,#genre#
 CCTV-1,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-1-AVS-4K264&ace
 CCTV-3,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-3-AVS-4K264&ace
 CCTV-5,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-5-AVS-4K264&ace
@@ -174,6 +174,34 @@ CCTV-6,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV
 CCTV-8,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-8-AVS-4K264&ace
 CCTV-16,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-16-4K&ace
 CCTV-4K,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-4K-HD&ace
+凤凰资讯,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=HD-10000k-1080P-fhzixun5s&ace
+凤凰中文,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=HD-10000k-1080P-fhchinese5s&ace
+凤凰香港,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=HD-10000k-1080P-fhhongkong5s&ace
+CCTV怀旧剧场,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_HUAIJIUJC-CQ&ace
+CCTV风云足球,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_FENGSHANGZQ-CQ&ace
+CCTV风云音乐,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_FENGYUNYY-CQ&ace
+CCTV风云剧场,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_FENGYUNJC-CQ&ace
+CCTV央视台球,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_TAIQIU-CQ&ace
+CCTV世界地理,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_SHIJIEDL-CQ&ace
+CCTV兵器科技,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_BINGQIKJ-CQ&ace
+CCTV女性时尚,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_NVXINGSS-CQ&ace
+CCTV高尔网球,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-GOLF-CQ&ace
+CCTV央视文化,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-WENHUA-CQ&ace
+CCTV电视指南,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_DIANSHIZN-CQ&ace
+江苏城市,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_JSCS&ace
+江苏公共,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_JSGG&ace
+江苏教育,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_JSJY&ace
+江苏体育,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_JSTY&ace
+江苏影视,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_JSYS&ace
+江苏综艺,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_JSZY&ace
+南京新闻,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_NJXW&ace
+南京影视,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_NJYS&ace
+南京少儿,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_NJSE&ace
+南京生活,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_NJSH&ace
+南京信息,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_NJXX&ace
+南京娱乐,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_NJYL&ace
+南京教科,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_NJJK&ace
+南京十八,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_NJSB&ace
 
 AKTV,#genre#
 鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8

@@ -275,10 +275,18 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
+28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
+28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 
 江苏代理,#genre#
-凤凰资讯,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=HD-10000k-1080P-fhzixun5s&ace
 凤凰中文,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=HD-10000k-1080P-fhchinese5s&ace
+凤凰资讯,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=HD-10000k-1080P-fhzixun5s&ace
 凤凰香港,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=HD-10000k-1080P-fhhongkong5s&ace
 CCTV-1,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-1-AVS-4K264&ace
 CCTV-2,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-2-HD-265-8M&ace
@@ -318,7 +326,4 @@ CCTV电视指南,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv
 南京娱乐,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_NJYL&ace
 南京教科,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_NJJK&ace
 南京十八,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_NJSB&ace
-東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
-28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+

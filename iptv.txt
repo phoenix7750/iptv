@@ -474,7 +474,7 @@ KBS World HD,http://iptv.diyp.site/公众号【DIYP】.php?key=litv&id=72b7c924-
 KBS World HD,http://iptv.diyp.site/公众号【DIYP】.php?key=litv&id=688cc814-9895-4b1f-b905-1977ea5bb960 
 tvN Asia,http://iptv.diyp.site/公众号【DIYP】.php?key=litv&id=e9a4d4e5-bb0b-4243-b563-eb25cbc56817 
 Boo HD,http://iptv.diyp.site/公众号【DIYP】.php?key=litv&id=751a053e-ed75-48b9-aa82-6bd199fdd418 
-#Boo HD,http://iptv.diyp.site/公众号【DIYP】.php?key=litv&id=c2e0ed42-704f-4d4d-8de1-8df217fbb752 
+Boo HD,http://iptv.diyp.site/公众号【DIYP】.php?key=litv&id=c2e0ed42-704f-4d4d-8de1-8df217fbb752 
 HBO RED,http://iptv.diyp.site/公众号【DIYP】.php?key=litv&id=e441e59d-6a74-486f-b3e5-9e3c9d33415d 
 Awani,http://iptv.diyp.site/公众号【DIYP】.php?key=litv&id=c57d149b-d5bb-458a-aae5-94fb88076b34 
 Bernama,http://iptv.diyp.site/公众号【DIYP】.php?key=litv&id=6cfc2bae-1425-4f0a-bf10-1546d0a9572e 
@@ -491,5 +491,7 @@ Arena HD,http://iptv.diyp.site/公众号【DIYP】.php?key=litv&id=3ba16812-77c7
 Suria,http://iptv.diyp.site/公众号【DIYP】.php?key=litv&id=97261d0e-08a9-4cf5-a554-671f271cdb7c 
 Channel 5,http://iptv.diyp.site/公众号【DIYP】.php?key=litv&id=6edad2d0-9bf0-427b-b2bc-e6d68b025371 
 Channel 8,http://iptv.diyp.site/公众号【DIYP】.php?key=litv&id=538f652a-d17c-4bda-80a2-5396e2c7b2ff 
+Channel U,http://iptv.diyp.site/公众号【DIYP】.php?key=litv&id=35178b83-91bf-41ba-80f0-6da51fca6bff 
+Vasantham,http://iptv.diyp.site/公众号【DIYP】.php?key=litv&id=edfdd829-2ea9-43fc-acf5-8070e369bd4d
 Channel U,http://iptv.diyp.site/公众号【DIYP】.php?key=litv&id=35178b83-91bf-41ba-80f0-6da51fca6bff 
 Vasantham,http://iptv.diyp.site/公众号【DIYP】.php?key=litv&id=edfdd829-2ea9-43fc-acf5-8070e369bd4d

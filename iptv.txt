@@ -262,7 +262,7 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 
-港台,genre#
+港台,#genre#
 凤凰中文台,http://61.163.58.154:1321/ms/IPTV.php?id=123
 凤凰资讯台,http://61.163.58.154:1321/ms/IPTV.php?id=124
 凤凰香港台,http://61.163.58.154:1321/ms/IPTV.php?id=125

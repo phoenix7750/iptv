@@ -40,8 +40,6 @@ Movie,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/1.m3u8
 咪咕体育2,http://[2409:8087:2801:20:100::010]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235589/1.m3u8
 咪咕视频,http://[2409:8087:2801:20:100::010]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235569/1.m3u8
 咪咕足球4K,http://[2409:8087:2801:20:100::010]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235583/1.m3u8
-广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 
 卫视,#genre#
 北京卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236241/1.m3u8
@@ -186,7 +184,3 @@ CCTV-17,http://111.29.9.34:6410/200000001898/460000089800010210/1.m3u8?IASHttpSe
 快乐垂钓,http://111.29.9.34:6410/000000001000/5000000011000031206/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031206
 茶频道,http://111.29.9.34:6410/000000001000/5000000011000031209/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031209
 金鹰纪实,http://111.29.9.34:6410/000000001000/5000000011000031203/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031203
-南京信息,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_NJXX&ace
-南京娱乐,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_NJYL&ace
-南京教科,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_NJJK&ace
-南京十八,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_NJSB&ace

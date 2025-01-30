@@ -1,0 +1,15 @@
+{
+urls:
+[
+{"name": "💚独步云端💚","url": "https://gitee.com/hbo2/iptv/raw/master/tvbox.json"},
+{"name": "🌟饭太硬🌟","url": "https://raw.bgithub.xyz/ls125781003/tvboxtg/refs/heads/main/饭太硬/api.json"},
+{"name": "💖盒子迷💖","url": "https://盒子迷.top/禁止贩卖"},
+{"name": "💚肥猫影视💚","url": "http://肥猫.com"},
+{"name": "🌟OK线路🌟","url": "https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/0821.json"},
+{"name": "📢喵影线路📢","url": "http://meowtv.top/tv"},
+{"name": "💖小马线路💖","url": "https://szyyds.cn/tv/x.json"},
+{"name": "💚巧技线路💚","url": "http://cdn.qiaoji8.com/tvbox.json"},
+{"name": "🌟星辰影视🌟","url": "https://fmbox.cc/"},
+{"name": "🌟摸鱼儿🌟","url": "https://raw.bgithub.xyz/phoenix7750/iptv/main/moyu.txt"}
+]
+}

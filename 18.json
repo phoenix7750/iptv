@@ -15,6 +15,33 @@
       "filterable": 0,
       "quickSearch": 0,
       "ext": ""
+    },
+      {
+      "key": "gdlsp.com",
+      "name": "大人01资源
+",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 1,
+      "filterable": 1
+    },
+  {
+      "key": "msnii.com",
+      "name": "大人02资源
+",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "filterable": 1
+    },
+  {
+      "key": "xrbsp.com",
+      "name": "大人03资源
+",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "filterable": 1
     }
 ]
 }

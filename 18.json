@@ -7,6 +7,14 @@
 {"key":"色猫","name":"🔞色猫","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"乐播","name":"🔞乐播","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},    
 {"key":"白嫖","name":"🔞白嫖","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":0,"quickSearch":0},
-{"key":"葡萄","name":"🔞葡萄","type":1,"api":"https://caiji.putaozyw.net/inc/apijson_vod.php","searchable":0,"quickSearch":0}
+{"key": "drpyS_黑料不打烊[密]",
+      "name": "黑料网",
+      "type": 4,
+      "api": "https://drpys.6516789.xyz/api/黑料不打烊[密]",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 0,
+      "ext": ""
+    }
 ]
 }

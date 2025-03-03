@@ -152,3 +152,32 @@ CCTV-17,http://39.134.65.181/PLTV/88888888/224/3221225708/1.m3u8
 贵州卫视,http://39.134.68.155:6610/PLTV/88888888/224/3221226474/index.m3u8?
 海南卫视,http://39.134.68.155:6610/PLTV/88888888/224/3221226465/index.m3u8?
 
+Now TV,#genre#
+HBO, https://eventcdn02-nowe.akamaized.net/hls/CH115/index.m3u8
+Now 爆谷台, https://eventcdn02-nowe.akamaized.net/hls/CH133/index.m3u8
+Now爆谷星影台, https://eventcdn02-nowe.akamaized.net/hls/CH138/index.m3u8
+Now直播台, https://eventcdn02-nowe.akamaized.net/hls/CH331/index.m3u8
+Now新聞台, https://eventcdn02-nowe.akamaized.net/hls/CH332/index.m3u8
+Now財經台, https://eventcdn02-nowe.akamaized.net/hls/CH333/index.m3u8
+Now Sports 英超1台, https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
+Now Sports 英超2台, https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
+Now Sports 英超3台, https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
+Now Sports 英超4台, https://eventcdn02-nowe.akamaized.net/hls/CH624/index.m3u8
+Now Sports 英超5台, https://eventcdn02-nowe.akamaized.net/hls/CH625/index.m3u8
+Now Sports 英超6台, https://eventcdn02-nowe.akamaized.net/hls/CH626/index.m3u8
+Now Sports 2, https://eventcdn02-nowe.akamaized.net/hls/CH632/index.m3u8
+Now Sports 3, https://eventcdn02-nowe.akamaized.net/hls/CH633/index.m3u8
+Now Sports 4, https://eventcdn02-nowe.akamaized.net/hls/CH634/index.m3u8
+Now Sports 5, https://eventcdn02-nowe.akamaized.net/hls/CH635/index.m3u8
+Now Sports 6, https://eventcdn02-nowe.akamaized.net/hls/CH636/index.m3u8
+Now Sports 7, https://eventcdn02-nowe.akamaized.net/hls/CH637/index.m3u8
+beIN SPORTS 1, https://eventcdn02-nowe.akamaized.net/hls/CH638/index.m3u8
+beIN SPORTS 2, https://eventcdn02-nowe.akamaized.net/hls/CH639/index.m3u8
+Now Sports 641, https://eventcdn02-nowe.akamaized.net/hls/CH641/index.m3u8
+NBATV, https://eventcdn02-nowe.akamaized.net/hls/CH642/index.m3u8
+Now Sports 651, https://eventcdn02-nowe.akamaized.net/hls/CH651/index.m3u8
+Now Sports 652, https://eventcdn02-nowe.akamaized.net/hls/CH652/index.m3u8
+Premier Sports, https://eventcdn02-nowe.akamaized.net/hls/CH679/index.m3u8
+Now Sports PLUS, https://eventcdn02-nowe.akamaized.net/hls/CH680/index.m3u8
+
+

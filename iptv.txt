@@ -39,6 +39,10 @@ CHC影迷电影,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224
 CHC家庭影院,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC动作电影,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 求索记录4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/1/1.m3u8
+求索动物,http://154.12.37.195:50003/TVOD/6000000002000010046/wasusyt/index.m3u8?OtherName=8M1080_华数
+求索纪录,http://154.12.37.195:50003/TVOD/6000000002000032052/wasusyt/index.m3u8?OtherName=8M1080_华数
+求索科学,http://154.12.37.195:50003/TVOD/6000000002000032344/wasusyt/index.m3u8?OtherName=8M1080_华数
+求索生活,http://154.12.37.195:50003/TVOD/6000000002000003382/wasusyt/index.m3u8?OtherName=8M1080_华数
 Fashion,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 欢笑剧场4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230782/1/index.m3u8

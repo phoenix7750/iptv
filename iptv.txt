@@ -223,13 +223,13 @@ ZooMoo,http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
 无线卫星新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 
 🔞频道_963963,#genre#
-香蕉,http://ali.hlspull.yximgs.com/live/fbb7728670fbb3b724bae6e93d0497bc.flv
-惊艳,http://ali.hlspull.yximgs.com/live/1c1dcbbfedfb42e68ec015aaa464db55.flv
-潘多拉,http://ali.hlspull.yximgs.com/live/592aeabf4c5151aabe7e49904e645f66.flv
-彩虹电影,http://ali.hlspull.yximgs.com/live/e6f84141518f2e407cb7f0c160391db3.flv
-彩虹e,http://ali.hlspull.yximgs.com/live/383c7ce05859d725a50ada6f6b718664.flv
-彩虹k,http://ali.hlspull.yximgs.com/live/0c0990d8b0fc94640fc368766c06e9d8.flv
-松视2,http://ali.hlspull.yximgs.com/live/93a5a0cf0108351d441e9e42f91e1db8.flv
-松视3,http://ali.hlspull.yximgs.com/live/a2b6d5308467f1b45f9d35bc8ff1bab1.flv
-极限电影,http://ali.hlspull.yximgs.com/live/ecf93e054f8565d40fa19e30f456bd32.flv
+香蕉,http://s.mrw.so/bK5Rb
+惊艳,http://suo.im/dfkTT
+潘多拉,http://suo.im/aZtnO
+彩虹电影,http://suo.im/cuIoU
+彩虹e,http://s.mrw.so/aeQSZ
+彩虹k,http://s.mrw.so/aZtoi
+松视2,http://suo.im/aeQTj
+松视3,http://suo.im/aeQT9
+极限电影,http://suo.im/7emO2
 pigoo,https://luong.utako.moe/pigoo/index.m3u8

@@ -24,17 +24,6 @@ CCTV4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/1.m
 中数,#genre#
 凤凰中文,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/1.m3u8
 凤凰资讯,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/1.m3u8
-世界地理,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_297?token=vpIiTLTwb8HrCKL5x6lgvw%3D%3D&key=VeBTu9fnZrWQQS0cTChkuIFBTTdDEW6OsFU4xmj6eUthUa1561mZ2R08lQpPBEepCHumU0fKml6WQHnF%2FwJEM%2FzbptJhefCHwWgqRDmlHndwhFZ79N8aLUFLhI0TeqH11QUijmOUusOsLYLuYVHWWzfF4ysN8IDi%2FZrIMegKZhOo%2FTs4RJdKkqZtD6f7VdCOjdNoWNv9gErX%2BlnxMXRgyjIU1sBQrvpfkPj5zIXu8O682we1KkLdNj5kEeQlEv92ImGw8xzWUDJ74SX6Ybrsy%2BjBfz4sDDvXAlCHWNpPpwwodvXGWVgVZkt81rvKFSFOtrF16OKndI%2BkPq7uTV2NHxMLuzH7z3gs25Y0ZvpGvqdofkFZACgaK3liZVony%2BhP&clientIp=%3A%3Affff%3A31.6.56.132
-第一剧场,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_294?token=vpIiTLTwb8HrCKL5x6lgvw%3D%3D&key=VeBTu9fnZrWQQS0cTChkuIFBTTdDEW6OsFU4xmj6eUthUa1561mZ2R08lQpPBEepCHumU0fKml6WQHnF%2FwJEM%2FzbptJhefCHwWgqRDmlHndwhFZ79N8aLUFLhI0TeqH11QUijmOUusOsLYLuYVHWWzfF4ysN8IDi%2FZrIMegKZhOo%2FTs4RJdKkqZtD6f7VdCOTxuqxLSFNZkgBfjwTT2eJNsL6ujV7w0TSbD8gwz%2FXTMlMBbQKSIxDQ%2BrU3R3lLGO%2Fh0b5%2FbTEjK0%2B0bLIHIda1PGoEiS1wOW8hxuU2hf9Va%2FirQw2ia9SteADBrWZoopRvN%2BXTj8LjMMFXwABt%2BfvJHUINWVNt8AN6pLK1Z%2FHyjNxKP9OXHSFXvdkjhu24z9&clientIp=%3A%3Affff%3A31.6.56.132
-风云剧场,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_295?token=vpIiTLTwb8HrCKL5x6lgvw%3D%3D&key=VeBTu9fnZrWQQS0cTChkuIFBTTdDEW6OsFU4xmj6eUthUa1561mZ2R08lQpPBEepCHumU0fKml6WQHnF%2FwJEM%2FzbptJhefCHwWgqRDmlHndwhFZ79N8aLUFLhI0TeqH11QUijmOUusOsLYLuYVHWWzfF4ysN8IDi%2FZrIMegKZhOo%2FTs4RJdKkqZtD6f7VdCOUpuYJb9eYUFLxo%2FC8HSwbGVSlu2MpowLoaXX7MkronGO6uQsnNKlHq7XSeUWXXj3MJlE8PjjXdiquUmYFZkfpWie4KxdME6I8oEjdhmnRgRYuQ%2Fd2EjOr0pZMdtWNOQ%2F0VNPh4KLmAh2V3ZArZj5QD2fUZIJEYxchvJ1lS6tEjI5G%2B2XLCtW%2FjLX2GP0OMQb&clientIp=%3A%3Affff%3A31.6.56.132
-怀旧剧场,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_296?token=vpIiTLTwb8HrCKL5x6lgvw%3D%3D&key=VeBTu9fnZrWQQS0cTChkuIFBTTdDEW6OsFU4xmj6eUthUa1561mZ2R08lQpPBEepCHumU0fKml6WQHnF%2FwJEM%2FzbptJhefCHwWgqRDmlHndwhFZ79N8aLUFLhI0TeqH11QUijmOUusOsLYLuYVHWWzfF4ysN8IDi%2FZrIMegKZhOo%2FTs4RJdKkqZtD6f7VdCOD4BIVUr9SsW5hQcIeRPMjhdWaph4qmDgWw22jVm3CUOp7A1Ue3fjzBmaw97tK0jde%2F7L70FRej0Q7TPdFyFlJaH3Ll95YQK2CvDWG9J%2Fpv28JLSViMDJFEDDhcmehrKPww97FNzF3BfSyTYEMZA8VPxlttF6rInFnqArW2%2FAvW4Zvyo3%2B2yy9DfF4%2Bl%2FptRz&clientIp=%3A%3Affff%3A31.6.56.132
-风云音乐,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_298?token=vpIiTLTwb8HrCKL5x6lgvw%3D%3D&key=VeBTu9fnZrWQQS0cTChkuIFBTTdDEW6OsFU4xmj6eUthUa1561mZ2R08lQpPBEepCHumU0fKml6WQHnF%2FwJEM%2FzbptJhefCHwWgqRDmlHndwhFZ79N8aLUFLhI0TeqH11QUijmOUusOsLYLuYVHWWzfF4ysN8IDi%2FZrIMegKZhOo%2FTs4RJdKkqZtD6f7VdCOtJNGdAOwJRsSD8ziHjAj8iJd2hufXgk57AvF1NI16w4eeLYyhbTn0CkHwqaWLirS61hQUPWNC14Fff4aY6LFki%2BJa0P2JK%2BBysXnebBTPrOhADvJrYVn5pjOtvnTizB2fy4NsoXwV14bCDeGpw5oKCL9IyrfSWHkwByGF4%2Fj4417lHCHCsX%2BJxGyAdObwsxz&clientIp=%3A%3Affff%3A31.6.56.132
-风云足球,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_299?token=vpIiTLTwb8HrCKL5x6lgvw%3D%3D&key=VeBTu9fnZrWQQS0cTChkuIFBTTdDEW6OsFU4xmj6eUthUa1561mZ2R08lQpPBEepCHumU0fKml6WQHnF%2FwJEM%2FzbptJhefCHwWgqRDmlHndwhFZ79N8aLUFLhI0TeqH11QUijmOUusOsLYLuYVHWWzfF4ysN8IDi%2FZrIMegKZhOo%2FTs4RJdKkqZtD6f7VdCO2laZA8mLotjaJlnFjbFkFfHKl%2FfCfzHa7EpTEobZmbWTEY3dfBCuEnKgJRDDi0lgYT8gnc3hwhlI1tque7ERwe3pPt1m8S6F6WQO3i8XBXBFRIZAcDmObzr%2Fq2iBARNllet2QN%2FO4aAUwR5q9b5z%2BcktCOSnPkAvRgo2cLg%2BqWO13L8Msrmh3Iv4o7JVM0SP&clientIp=%3A%3Affff%3A31.6.56.132
-女性时尚,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_301?token=vpIiTLTwb8HrCKL5x6lgvw%3D%3D&key=VeBTu9fnZrWQQS0cTChkuIFBTTdDEW6OsFU4xmj6eUthUa1561mZ2R08lQpPBEepCHumU0fKml6WQHnF%2FwJEM%2FzbptJhefCHwWgqRDmlHndwhFZ79N8aLUFLhI0TeqH11QUijmOUusOsLYLuYVHWWzfF4ysN8IDi%2FZrIMegKZhOo%2FTs4RJdKkqZtD6f7VdCOfTZ6jdBYUwP862a5FtP07xVd7w2VyP96IUl%2B5YmEVE7A5JjicTTjIJhxdzeIiVsTUfwNHg1ZT%2FCOFVc2PnPwxT%2FsCEqhtHFx7qu3%2FjEimKVaIbdnz7XfoBxvJm4PLx%2BTe7tkG%2Fdl%2FHG%2BESEy8MBrk%2Br52f0PmkA5NXfLPlzOWVqKUnjss1km7WYNd6J%2FGKE7&clientIp=%3A%3Affff%3A31.6.56.132
-文化精品,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_302?token=vpIiTLTwb8HrCKL5x6lgvw%3D%3D&key=VeBTu9fnZrWQQS0cTChkuIFBTTdDEW6OsFU4xmj6eUthUa1561mZ2R08lQpPBEepCHumU0fKml6WQHnF%2FwJEM%2FzbptJhefCHwWgqRDmlHndwhFZ79N8aLUFLhI0TeqH11QUijmOUusOsLYLuYVHWWzfF4ysN8IDi%2FZrIMegKZhOo%2FTs4RJdKkqZtD6f7VdCO1dXX5lQaafbaysnhe26Dyjczux5g7XU7CGBbNCjn%2BNpTWaL5AGzrNKcas9dXSJCS9EyqZVxmVoVlpMXP0mP3lI9kG3u2E8tybTDTA1E5u7iUwTJRUwrwf4%2Bw0L%2FwOKT3eNyYtJz%2FIA61w5QqGtvKprC45xf2fGT8jfZEHnLOW%2Bd4dVTRX0lJS9GWZyG7yx4H&clientIp=%3A%3Affff%3A31.6.56.132
-央视台球,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_303?token=vpIiTLTwb8HrCKL5x6lgvw%3D%3D&key=VeBTu9fnZrWQQS0cTChkuIFBTTdDEW6OsFU4xmj6eUthUa1561mZ2R08lQpPBEepCHumU0fKml6WQHnF%2FwJEM%2FzbptJhefCHwWgqRDmlHndwhFZ79N8aLUFLhI0TeqH11QUijmOUusOsLYLuYVHWWzfF4ysN8IDi%2FZrIMegKZhOo%2FTs4RJdKkqZtD6f7VdCOd3XCbQZ%2FDaKqPkM9Z%2BLJT4gEYXEpI0x%2BONWyVcgD2w5jblvKlA7SLehe5jsNVy0UYm2OhhhPX7fWZmunLOzfHrzAZ4RKIahg%2BdljP3gTNl1KqM9Tkh3G3kKNyr7SRCSbCC1XloVvGumeNYhAvaVT7ze0IqHZVs50BZgAOqD1zaK45rq33vYRQSS8apDGvsaj&clientIp=%3A%3Affff%3A31.6.56.132
-电视指南,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_304?token=vpIiTLTwb8HrCKL5x6lgvw%3D%3D&key=VeBTu9fnZrWQQS0cTChkuIFBTTdDEW6OsFU4xmj6eUthUa1561mZ2R08lQpPBEepCHumU0fKml6WQHnF%2FwJEM%2FzbptJhefCHwWgqRDmlHndwhFZ79N8aLUFLhI0TeqH11QUijmOUusOsLYLuYVHWWzfF4ysN8IDi%2FZrIMegKZhOo%2FTs4RJdKkqZtD6f7VdCOxcP62sqe4IoxrwvaizUD9IvbHsvRk28%2FPHMSZqnv7I8n5g7X9QeuiPEYprZwntT3tc39GaRUTOk3%2BqRALq0xsYkhky%2F9X2R7H5CPlB4BDfe1LZt2Fo1LyildWC4czS6GPryc7ljysMc52tSHnuZZSLv4O2a8ueW2ua089JtA2OWW1TuFPuWP7J6cQMF0NaG1&clientIp=%3A%3Affff%3A31.6.56.132
-卫生健康,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_305?token=vpIiTLTwb8HrCKL5x6lgvw%3D%3D&key=VeBTu9fnZrWQQS0cTChkuIFBTTdDEW6OsFU4xmj6eUthUa1561mZ2R08lQpPBEepCHumU0fKml6WQHnF%2FwJEM%2FzbptJhefCHwWgqRDmlHndwhFZ79N8aLUFLhI0TeqH11QUijmOUusOsLYLuYVHWWzfF4ysN8IDi%2FZrIMegKZhOo%2FTs4RJdKkqZtD6f7VdCOSRum3mtv3%2Buax0ZhMCLYArMhDTwNiTuJx6vnG1fU0JMiD3VV4ISfZ%2FC8XKL9mq87gu9A2Pg%2FEuXvNwmsVLsNz2fvZfMWiPcEt1kjCnNZ0vLrHvAnpnxD03qZwbjbYFJT6E84QkdKVA31%2FWgTxdz1wwnnd7Mx7cPFeejdU10Py5mn47XK%2FKmlSAPBKQeeqCAn&clientIp=%3A%3Affff%3A31.6.56.132
 高尔夫网球,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/1/1.m3u8
 求索记录4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/1/1.m3u8
 Fashion,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -161,34 +150,6 @@ CCTV-17,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225
 贵州卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 海南卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 
-Now TV,#genre#
-HBO, https://eventcdn02-nowe.akamaized.net/hls/CH115/index.m3u8
-Now 爆谷台, https://eventcdn02-nowe.akamaized.net/hls/CH133/index.m3u8
-Now爆谷星影台, https://eventcdn02-nowe.akamaized.net/hls/CH138/index.m3u8
-Now直播台, https://eventcdn02-nowe.akamaized.net/hls/CH331/index.m3u8
-Now新聞台, https://eventcdn02-nowe.akamaized.net/hls/CH332/index.m3u8
-Now財經台, https://eventcdn02-nowe.akamaized.net/hls/CH333/index.m3u8
-Now Sports 英超1台, https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
-Now Sports 英超2台, https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
-Now Sports 英超3台, https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
-Now Sports 英超4台, https://eventcdn02-nowe.akamaized.net/hls/CH624/index.m3u8
-Now Sports 英超5台, https://eventcdn02-nowe.akamaized.net/hls/CH625/index.m3u8
-Now Sports 英超6台, https://eventcdn02-nowe.akamaized.net/hls/CH626/index.m3u8
-Now Sports 2, https://eventcdn02-nowe.akamaized.net/hls/CH632/index.m3u8
-Now Sports 3, https://eventcdn02-nowe.akamaized.net/hls/CH633/index.m3u8
-Now Sports 4, https://eventcdn02-nowe.akamaized.net/hls/CH634/index.m3u8
-Now Sports 5, https://eventcdn02-nowe.akamaized.net/hls/CH635/index.m3u8
-Now Sports 6, https://eventcdn02-nowe.akamaized.net/hls/CH636/index.m3u8
-Now Sports 7, https://eventcdn02-nowe.akamaized.net/hls/CH637/index.m3u8
-beIN SPORTS 1, https://eventcdn02-nowe.akamaized.net/hls/CH638/index.m3u8
-beIN SPORTS 2, https://eventcdn02-nowe.akamaized.net/hls/CH639/index.m3u8
-Now Sports 641, https://eventcdn02-nowe.akamaized.net/hls/CH641/index.m3u8
-NBATV, https://eventcdn02-nowe.akamaized.net/hls/CH642/index.m3u8
-Now Sports 651, https://eventcdn02-nowe.akamaized.net/hls/CH651/index.m3u8
-Now Sports 652, https://eventcdn02-nowe.akamaized.net/hls/CH652/index.m3u8
-Premier Sports, https://eventcdn02-nowe.akamaized.net/hls/CH679/index.m3u8
-Now Sports PLUS, https://eventcdn02-nowe.akamaized.net/hls/CH680/index.m3u8
-
 AKTV,#genre#
 28 AI 智慧赛马,http://aktv_stream1.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
 Channel 5 HD,http://aktv_stream1.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
@@ -232,15 +193,3 @@ ZooMoo,http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
 亚洲新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
 东方卫视国际频道,http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
 无线卫星新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
-
-🔞频道_963963,#genre#
-香蕉,http://s.mrw.so/bK5Rb
-惊艳,http://suo.im/dfkTT
-潘多拉,http://suo.im/aZtnO
-彩虹电影,http://suo.im/cuIoU
-彩虹e,http://s.mrw.so/aeQSZ
-彩虹k,http://s.mrw.so/aZtoi
-松视2,http://suo.im/aeQTj
-松视3,http://suo.im/aeQT9
-极限电影,http://suo.im/7emO2
-pigoo,https://luong.utako.moe/pigoo/index.m3u8

@@ -161,6 +161,44 @@ CCTV-17,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225
 黑龙江农业科教,http://39.135.133.158/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 黑龙江少儿,http://39.135.133.172/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 
+NewTV,#genre#
+金牌综艺,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236282/1.m3u8
+潮婆辣妈,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236167/1.m3u8
+欢乐剧场,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236173/1.m3u8
+爱情喜剧,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236179/1.m3u8
+动作电影,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236183/1.m3u8
+家庭剧场,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236206/1.m3u8
+哒波赛事,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236207/1.m3u8
+军事评论,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236155/1.m3u8
+怡伴健康,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236220/1.m3u8
+惊悚悬疑,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236223/1.m3u8
+农业致富,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236233/1.m3u8
+精品大剧,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236239/1.m3u8
+古装剧场,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236240/1.m3u8
+武搏天下,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236247/1.m3u8
+黑莓电影,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236248/1.m3u8
+中国功夫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236267/1.m3u8
+精品记录,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236276/1.m3u8
+军旅剧场,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236278/1.m3u8
+精品体育,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236300/1.m3u8
+炫舞未来,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236230/1.m3u8
+
+IHOT,#genre#
+爱赛车,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/1.m3u8
+爱旅行,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/1.m3u8
+爱谍战,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/1.m3u8
+爱悬疑,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/1.m3u8
+爱历史,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/1.m3u8
+爱体育,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/1.m3u8
+爱浪漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/1/1.m3u8
+爱院线,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/1/1.m3u8
+爱喜剧,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/1/1.m3u8
+爱科幻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/1/1.m3u8
+爱科学,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235603/1/1.m3u8
+爱奇谈,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235605/1/1.m3u8
+爱幼教,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235622/1/1.m3u8
+爱玩具,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235626/1/1.m3u8
+爱动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235628/1/1.m3u8
 AKTV,#genre#
 28 AI 智慧赛马,http://aktv-stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
 Channel 5 HD,http://aktv-stream.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8

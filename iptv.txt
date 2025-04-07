@@ -199,6 +199,7 @@ IHOT,#genre#
 爱幼教,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235622/1/1.m3u8
 爱玩具,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235626/1/1.m3u8
 爱动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235628/1/1.m3u8
+
 AKTV,#genre#
 28 AI 智慧赛马,http://aktv-stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
 Channel 5 HD,http://aktv-stream.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8

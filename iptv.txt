@@ -96,6 +96,7 @@ Movie,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/1.m3u8
 金鹰纪实,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226572/1.m3u8?
 茶频道,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226548/1.m3u8?
 快乐垂钓,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226549/1.m3u8?
+中国交通,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226891/1.m3u8?
 
 浙江,#genre#
 浙江钱江都市,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233005/1/index.m3u8
@@ -254,6 +255,7 @@ NewTV,#genre#
 古装剧场,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236240/1.m3u8
 武搏天下,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236247/1.m3u8
 黑莓电影,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236248/1.m3u8
+黑莓动画,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236261/1.m3u8
 中国功夫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236267/1.m3u8
 精品记录,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236276/1.m3u8
 军旅剧场,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236278/1.m3u8

@@ -8,7 +8,7 @@ urls:
 {"name": "🌟OK线路🌟","url": "https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/0821.json"},
 {"name": "📢喵影线路📢","url": "http://meowtv.top/tv"},
 {"name": "💖小马线路💖","url": "https://szyyds.cn/tv/x.json"},
-{"name": "🌟星辰影视🌟","url": "https://fmbox.cc/"},
+{"name": "🌟星辰影视🌟","url": "http://www.饭太硬.com/tv/"},
 {"name": "🌟摸鱼儿🌟","url": "https://raw.bgithub.xyz/phoenix7750/iptv/main/moyu.txt"},
 {"name": "💖🔞成人线路💖","url": "https://raw.bgithub.xyz/phoenix7750/iptv/refs/heads/main/18.json"}
 ]

@@ -4,7 +4,6 @@ urls:
 {"name": "💚独步云端💚","url": "https://raw.bgithub.xyz/phoenix7750/iptv/main/tvbox.json"},
 {"name": "🌟饭太硬🌟","url": "http://www.饭太硬.com/tv/"},
 {"name": "💖盒子迷💖","url": "https://盒子迷.top/禁止贩卖"},
-{"name": "💚肥猫影视💚","url": "http://肥猫.com"},
 {"name": "🌟OK线路🌟","url": "https://raw.bgithub.xyz/qist/tvbox/master/0821.json"},
 {"name": "💖小马线路💖","url": "https://szyyds.cn/tv/x.json"},
 {"name": "💚巧技线路💚","url": "http://cdn.qiaoji8.com/tvbox.json"},

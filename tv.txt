@@ -4,9 +4,15 @@ urls:
 {"name": "💚独步云端💚","url": "https://raw.bgithub.xyz/phoenix7750/iptv/main/tvbox.json"},
 {"name": "🌟饭太硬🌟","url": "http://www.饭太硬.com/tv/"},
 {"name": "💖盒子迷💖","url": "https://盒子迷.top/禁止贩卖"},
-{"name": "🌟OK线路🌟","url": "https://raw.bgithub.xyz/qist/tvbox/master/0821.json"},
+{"name": "🌟OK线路🌟","url": "http://ok321.top/ok"},
 {"name": "💖小马线路💖","url": "https://szyyds.cn/tv/x.json"},
 {"name": "💚巧技线路💚","url": "http://cdn.qiaoji8.com/tvbox.json"},
+{"name": "🌟饭太硬🌟","url": "https://raw.bgithub.xyz/ls125781003/tvboxtg/main/饭太硬/api.json"},
+{"name": "💚南风线路💚","url": "https://raw.bgithub.xyz/ls125781003/tvboxtg/main/南风/api.json"},
+{"name": "🌟小米线路🌟","url": "https://raw.bgithub.xyz/ls125781003/tvboxtg/main/小米/api.json"},
+{"name": "💖摸鱼儿💖","url": "https://raw.bgithub.xyz/ls125781003/tvboxtg/main/摸鱼儿/api.json"},
+{"name": "🌟欧歌线路🌟","url": "https://raw.bgithub.xyz/ls125781003/tvboxtg/main/欧歌/api.json"},
+{"name": "💚潇洒线路💚","url": "https://raw.bgithub.xyz/ls125781003/tvboxtg/main/潇洒/api.json"},
 {"name": "💖🔞成人线路💖","url": "https://raw.bgithub.xyz/phoenix7750/iptv/main/18.json"}
 ]
 }

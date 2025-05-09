@@ -6,6 +6,26 @@
 {"key":"AIvin","name":"🔞AIvin","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"乐播","name":"🔞乐播","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},  
 {"key":"白嫖","name":"🔞白嫖","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":0,"quickSearch":0},
+ {
+      "key": "csp_XBPQ_yyxl",
+      "name": "🔞夜夜新郎",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/lib/夜夜新郎.json"
+    },
+ {
+      "key": "橘猫资源",
+      "name": "🔞橘猫资源",
+      "type": 1,
+      "api": "https://to.to-long.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
   {
       "key": "玉兔专场",
       "name": "🔞玉兔采集",

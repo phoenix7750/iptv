@@ -7,6 +7,48 @@
 {"key":"乐播","name":"🔞乐播","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},  
 {"key":"白嫖","name":"🔞白嫖","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":0,"quickSearch":0},
   {
+      "key": "csp_XBPQ_yyxl",
+      "name": "🔞夜夜新郎",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/lib/夜夜新郎.json"
+    },
+ {
+      "key": "橘猫资源",
+      "name": "🔞橘猫资源",
+      "type": 1,
+      "api": "https://to.to-long.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "csp_XBPQ_奶很大",
+      "name": "🔞奶很大",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "请求头": "手机",
+        "站名": "奶很大",
+        "主页url": "https://hhicd-d63o3o.naihendawaq.buzz/index.php",
+        "直接播放": "1",
+        "标题": "<p&&</p>",
+        "图片": "data-src=\"&&\"",
+        "跳转播放链接": "var player_data*url\":\"&&\"",
+        "搜索模式": "1",
+        "搜索url": "/index.php/vodsearch/{wd}----------{pg}---.html",
+        "分类url": "https://hhicd-d63o3o.naihendawaq.buzz/index.php/vodtype/{cateId}-{catePg}.html",
+        "分类": "草莓猛料$136#玩偶姐姐$133#兔子先生$131#91茄子$129#奇兵有码$27#步兵无码$28#国产视频$1#日本视频$2#中文字幕$9#无码中文$34#主播大秀$12#欧美视频$5#女神学生$16#娇妻素人$18空姐模特$19#职场同事$23#强奸中文$35#制服中文$38#出轨中文$41#韩国制服主播$43#制服师生$50"
+      },
+  {
       "key": "玉兔专场",
       "name": "🔞玉兔采集",
       "type": 1,

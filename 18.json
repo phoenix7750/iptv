@@ -4,7 +4,8 @@
 {"key":"淫水机","name":"🔞淫水机","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"香奶儿","name":"🔞香奶儿","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"AIvin","name":"🔞AIvin","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"乐播","name":"🔞乐播","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},    
+{"key":"乐播","name":"🔞乐播","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},  
+{"key":"玉兔","name":"玉兔采集","type":0,"api":"https://py.nxog.eu.org/https://apiyutu.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"白嫖","name":"🔞白嫖","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":0,"quickSearch":0}
 ]
 }

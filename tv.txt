@@ -14,6 +14,6 @@ urls:
 {"name": "🌟欧歌线路🌟","url": "https://raw.bgithub.xyz/ls125781003/tvboxtg/main/欧歌/api.json"},
 {"name": "💚潇洒线路💚","url": "https://raw.bgithub.xyz/ls125781003/tvboxtg/main/潇洒/api.json"},
 {"name": "🅱️JJ线路🅱️","url": "https://git.acwing.com/lw0704/66/-/raw/master/jjzx.json"},
-{"name": "💖🔞成人线路💖","url": "https://gitee.com/hbo2/iptv/raw/master/18.json"}
+{"name": "💖🔞成人线路💖","url": "https://raw.bgithub.xyz/phoenix7750/iptv/main/18.json"}
 ]
 }

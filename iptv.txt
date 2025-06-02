@@ -274,6 +274,10 @@ IHOT,#genre#
 爱喜剧,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/1/1.m3u8
 爱科幻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/1/1.m3u8
 爱科学,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235603/1/1.m3u8
+爱奇谈,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235605/1/1.m3u8
+爱幼教,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235622/1/1.m3u8
+爱玩具,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235626/1/1.m3u8
+爱动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235628/1/1.m3u8
 
 咪咕视频,#genre#
 咪咕视频01,http://39.134.65.106/PLTV/88888888/224/3221225611/1.m3u8
@@ -308,7 +312,4 @@ IHOT,#genre#
 咪咕视频30,http://39.134.65.106/PLTV/88888888/224/3221225910/1.m3u8
 咪咕视频31,http://39.134.65.106/PLTV/88888888/224/3221225912/1.m3u8
 咪咕视频32,http://39.134.65.106/PLTV/88888888/224/3221225914/1.m3u8
-爱奇谈,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235605/1/1.m3u8
-爱幼教,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235622/1/1.m3u8
-爱玩具,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235626/1/1.m3u8
-爱动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235628/1/1.m3u8
+

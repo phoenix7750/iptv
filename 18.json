@@ -10,15 +10,6 @@
 {"key":"乐播","name":"🔞乐播","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},  
 {"key":"白嫖","name":"🔞白嫖","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":0,"quickSearch":0},
   {
-      "key": "zp0110",
-      "name": "🔞成人资源",
-      "type": 1,
-      "api": "https://www.avre10.com/api.php/Prodao/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-  {
       "key": "玉兔专场",
       "name": "🔞玉兔采集",
       "type": 1,

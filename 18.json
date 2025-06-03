@@ -7,32 +7,12 @@
 {"key":"香奶儿","name":"🔞香奶儿","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"AIvin","name":"🔞AIvin","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"乐播","name":"🔞乐播","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},  
-{"key":"白嫖","name":"🔞白嫖","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":0,"quickSearch":0},
- {
-      "key": "csp_XBPQ_yyxl",
-      "name": "🔞夜夜新郎",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://py.nxog.eu.org/https://raw.bgithub.xyz/guot55/yg/main/jar/hl.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://py.nxog.eu.org/https://raw.bgithub.xyz/guot55/yg/main/lib/夜夜新郎.json"
-    },
+{"key":"白嫖","name":"🔞白嫖","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":0,"quickSearch":0}，
   {
       "key": "zp0110",
-      "name": "🧿成人资源",
+      "name": "🔞成人资源",
       "type": 1,
       "api": "https://www.avre10.com/api.php/Prodao/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
- {
-      "key": "橘猫资源",
-      "name": "🔞橘猫资源",
-      "type": 1,
-      "api": "https://to.to-long.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0

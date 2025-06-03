@@ -13,11 +13,20 @@
       "name": "🔞夜夜新郎",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+      "jar": "https://py.nxog.eu.org/https://raw.bgithub.xyz/guot55/yg/main/jar/hl.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/lib/夜夜新郎.json"
+      "ext": "https://py.nxog.eu.org/https://raw.bgithub.xyz/guot55/yg/main/lib/夜夜新郎.json"
+    },
+  {
+      "key": "zp0110",
+      "name": "🧿成人资源",
+      "type": 1,
+      "api": "https://www.avre10.com/api.php/Prodao/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
  {
       "key": "橘猫资源",

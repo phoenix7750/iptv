@@ -310,6 +310,7 @@ IHOT,#genre#
 咪咕视频30,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235589/1.m3u8
 咪咕视频4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235583/1.m3u8
 
+TW,#genre#
 民視,mitv://starvod.xyz:19806/cd92cc6dfb0d4318965a3b54ad335fbb.ts
 中視,mitv://starvod.xyz:19806/6836b92f0009e944e607b37f225e727f.ts
 華視,mitv://starvod.xyz:19806/c2aa54f26921463ba6952a8ab0d3e9eb.ts

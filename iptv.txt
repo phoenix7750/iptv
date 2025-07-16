@@ -304,48 +304,55 @@ IHOT,#genre#
 咪咕视频4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235583/1.m3u8
 
 AKTV,#genre#
-鳳凰中文,https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
-鳳凰資訊,https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
-鳳凰香港,https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
-HBO,https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
-AXN,https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
-ROCK Action,https://s1.m16tv.cfd/aktv/rockaction/AKTV.m3u8
-東森電影,https://s1.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
-東森洋片,https://s1.m16tv.cfd/aktv2/CH-2/AKTV.m3u8
-好萊塢電影台,https://s1.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
-美亞電影台(HK),https://s1.m16tv.cfd/aktv/hk/AKTV.m3u8
-天映电影,https://s1.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
-明珠剧集台(北美),https://s1.m16tv.cfd/aktv/CH-19/AKTV.m3u8
-明珠台,https://s1.m16tv.cfd/aktv/CH-2/AKTV.m3u8
-無線新聞台,https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
-翡翠剧集台(北美),https://s1.m16tv.cfd/aktv/CH-18/AKTV.m3u8
-翡翠台,https://s1.m16tv.cfd/aktv/CH-0/AKTV.m3u8
-翡翠综合台(北美),https://s1.m16tv.cfd/aktv/CH-17/AKTV.m3u8
-民視第一台,https://s1.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
-民視,https://s1.m16tv.cfd/taiwan/CH-1/AKTV.m3u8
-影迷數位紀實台,https://s1.m16tv.cfd/taiwan/CH-2/AKTV.m3u8
-My Cinema Europe HD,https://s1.m16tv.cfd/taiwan/CH-3/AKTV.m3u8
-民視綜藝台,https://s1.m16tv.cfd/taiwan/CH-4/AKTV.m3u8
-龍華日韓台,https://s1.m16tv.cfd/taiwan/CH-5/AKTV.m3u8
-TVBS,https://s1.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
-TVBS新聞,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
-中天新闻台,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
-東森新聞,https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
-緯來體育台,https://s1.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
-Channel 5 HD,https://s1.m16tv.cfd/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,https://s1.m16tv.cfd/aktv/channel8hd/AKTV.m3u8
-Channel U HD,https://s1.m16tv.cfd/aktv/channeluhd/AKTV.m3u8
-myTV SUPER 18台,https://s1.m16tv.cfd/aktv/mytvsuper18/AKTV.m3u8
-PopC,https://s1.m16tv.cfd/aktv/popc/AKTV.m3u8
-TVB 星河,https://s1.m16tv.cfd/taiwan2/tvb/AKTV.m3u8
-TVB Plus,https://s1.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
-tvN,https://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
-Japan News 24H LIVE,https://s1.m16tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
-日テレNEWS LIVE,https://s1.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
-Animax (HK),https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
-IQIYI,https://s1.m16tv.cfd/aktv2/iqiyi/AKTV.m3u8
-VIUTV,https://s1.m16tv.cfd/aktv2/viutv/AKTV.m3u8
-CNA,https://s1.m16tv.cfd/aktv3/cna/AKTV.m3u8
-KPOP+,https://s1.m16tv.cfd/aktv3/kpop/AKTV.m3u8
-朝鲜恩情台,https://s1.m16tv.cfd/aktv3/CH-0/AKTV.m3u8
-8TV,https://s1.m16tv.cfd/astro/8tv/AKTV.m3u8
+鳳凰中文,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
+鳳凰資訊,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
+鳳凰香港,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
+AXN,http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
+ROCK Action,http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
+東森電影,http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
+東森洋片,http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
+好萊塢電影台,http://s1.an94tv.cfd/aktv2/CH-4/AKTV.m3u8
+美亞電影台(HK),http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
+天映电影,http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
+天映經典,http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
+明珠剧集台(北美),http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
+明珠台,http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
+無線新聞台,http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
+翡翠剧集台(北美),http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
+翡翠台,http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
+翡翠综合台(北美),http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
+民視第一台,http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
+民視,http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
+靖天國際台,http://s1.an94tv.cfd/taiwan/CH-3/AKTV.m3u8
+龍華日韓台,http://s1.an94tv.cfd/taiwan/CH-5/AKTV.m3u8
+TVBS,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
+TVBS新聞,http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
+中天新闻台,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
+中天亚洲台,http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
+東森新聞,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
+緯來體育台,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
+Love Nature HD,http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
+Channel 5 HD,http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
+Channel 8 HD,http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
+Channel U HD,http://s1.an94tv.cfd/aktv/channeluhd/AKTV.m3u8
+myTV SUPER 18台,http://s1.an94tv.cfd/aktv/mytvsuper18/AKTV.m3u8
+PopC,http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
+TVB 星河,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
+TVB Plus,http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
+tvN,http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
+Japan News 24H LIVE,http://s1.an94tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
+日テレNEWS LIVE,http://s1.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
+Animax (HK),http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
+VIUTV,http://s1.an94tv.cfd/aktv2/viutv/AKTV.m3u8
+CNA,http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
+KPOP+,http://s1.an94tv.cfd/aktv3/kpop/AKTV.m3u8
+朝鲜恩情台,http://s1.an94tv.cfd/aktv3/CH-0/AKTV.m3u8
+8TV,http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
+Astro Football,http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
+Astro Sport UHD,http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
+EuroSport 1,http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
+EuroSport 2,http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
+TNT SPORTS 1,http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
+TNT SPORTS 2,http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
+TNT SPORTS 3,http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
+Sky Sports F1,http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8

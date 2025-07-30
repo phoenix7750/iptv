@@ -47,10 +47,6 @@ CCTV-4美洲,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236335
 高尔夫网球,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/1/1.m3u8
 CHC家庭影院,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236359/1.m3u8
 东方影视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236375/1.m3u8
-求索纪录,http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8
-求索生活,http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8
-求索科学,http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
-求索动物,http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8
 睛彩竞技,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232629/1/1.m3u8
 睛彩篮球,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232657/1/1.m3u8
 至臻视界4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235579/1.m3u8
@@ -61,8 +57,6 @@ Fashion,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_defa
 五星体育,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236361/1.m3u8
 重温经典,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/1.m3u8
 Y+剧场,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1/1.m3u8
-Drama,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236208/1.m3u8
-Movie,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/1.m3u8
 
 卫视,#genre#
 北京卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228321/1/1.m3u8
@@ -77,7 +71,7 @@ Movie,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/1.m3u8
 广西卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236263/1.m3u8
 山东卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236159/1.m3u8
 安徽卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236177/1.m3u8
-浙江卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236171/1.m3u8
+浙江卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228324/1/1.m3u8
 东南卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236151/1.m3u8
 江苏卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228351/1/1.m3u8
 江西卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236212/1.m3u8
@@ -92,7 +86,6 @@ Movie,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/1.m3u8
 海南卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236232/1.m3u8
 甘肃卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236201/1.m3u8
 海峡卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236416/1.m3u8
-大湾区卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236213/1.m3u8
 
 浙江,#genre#
 浙江钱江都市,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233005/1/1.m3u8
@@ -177,59 +170,6 @@ NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/1.m
 云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
 舟山嵊泗综合,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8?zzhed
 
-黑龙江,#genre# 
-CCTV-1,http://39.134.65.106/PLTV/88888888/224/3221226119/1.m3u8
-CCTV-2,http://39.134.65.106/PLTV/88888888/224/3221226079/1.m3u8
-CCTV-3,http://39.134.65.106/PLTV/88888888/224/3221225799/1.m3u8
-CCTV-4,http://39.134.65.106/PLTV/88888888/224/3221226092/1.m3u8
-CCTV-5,http://39.134.65.106/PLTV/88888888/224/3221225818/1.m3u8
-CCTV-5+,http://39.134.65.106/PLTV/88888888/224/3221225507/1.m3u8
-CCTV-6,http://39.134.65.106/PLTV/88888888/224/3221225814/1.m3u8
-CCTV-7,http://39.134.65.106/PLTV/88888888/224/3221225671/1.m3u8
-CCTV-8,http://39.134.65.106/PLTV/88888888/224/3221225795/1.m3u8
-CCTV-9,http://39.134.65.106/PLTV/88888888/224/3221225676/1.m3u8
-CCTV-10,http://39.134.65.106/PLTV/88888888/224/3221226128/1.m3u8
-CCTV-11,http://39.134.65.106/PLTV/88888888/224/3221226123/1.m3u8
-CCTV-12,http://39.134.65.106/PLTV/88888888/224/3221226130/1.m3u8
-CCTV-13,http://39.134.65.106/PLTV/88888888/224/3221226125/1.m3u8
-CCTV-14,http://39.134.65.106/PLTV/88888888/224/3221226132/1.m3u8
-CCTV-15,http://39.134.65.106/PLTV/88888888/224/3221226127/1.m3u8
-CCTV-16,http://39.134.65.106/PLTV/88888888/224/3221225893/1.m3u8
-CCTV-17,http://39.134.65.106/PLTV/88888888/224/3221225708/1.m3u8
-北京纪实科教,http://39.134.65.106/PLTV/88888888/224/3221225670/1.m3u8
-北京卫视,http://39.134.65.106/PLTV/88888888/224/3221225931/1.m3u8
-天津卫视,http://39.134.65.106/PLTV/88888888/224/3221225972/1.m3u8
-东方卫视,http://39.134.65.106/PLTV/88888888/224/3221225672/1.m3u8
-重庆卫视,http://39.134.65.106/PLTV/88888888/224/3221225963/1.m3u8
-浙江卫视,http://39.134.65.106/PLTV/88888888/224/3221225514/1.m3u8
-安徽卫视,http://39.134.65.106/PLTV/88888888/224/3221225925/1.m3u8
-山东卫视,http://39.134.65.106/PLTV/88888888/224/3221225952/1.m3u8
-东南卫视,http://39.134.65.106/PLTV/88888888/224/3221225950/1.m3u8
-深圳卫视,http://39.134.65.106/PLTV/88888888/224/3221225668/1.m3u8
-江苏卫视,http://39.134.65.106/PLTV/88888888/224/3221225938/1.m3u8
-江西卫视,http://39.134.65.106/PLTV/88888888/224/3221225935/1.m3u8
-湖南卫视,http://39.134.65.106/PLTV/88888888/224/3221225506/1.m3u8
-湖北卫视,http://39.134.65.106/PLTV/88888888/224/3221225569/1.m3u8
-河南卫视,http://39.134.65.106/PLTV/88888888/224/3221225988/1.m3u8
-河北卫视,http://39.134.65.106/PLTV/88888888/224/3221225961/1.m3u8
-黑龙江卫视,http://39.134.65.106/PLTV/88888888/224/3221226056/1.m3u8
-吉林卫视,http://39.134.65.106/PLTV/88888888/224/3221225981/1.m3u8
-辽宁卫视,http://39.134.65.106/PLTV/88888888/224/3221226089/1.m3u8
-广东卫视,http://39.134.65.106/PLTV/88888888/224/3221225966/1.m3u8
-广西卫视,http://39.134.65.106/PLTV/88888888/224/3221226091/1.m3u8
-贵州卫视,http://39.134.65.106/PLTV/88888888/224/3221225974/1.m3u8
-四川卫视,http://39.134.65.106/PLTV/88888888/224/3221225970/1.m3u8
-黑龙江都市,http://39.134.65.106/PLTV/88888888/224/3221225969/1.m3u8
-黑龙江法治,http://39.134.65.106/PLTV/88888888/224/3221225967/1.m3u8
-黑龙江文体,http://39.134.65.106/PLTV/88888888/224/3221225965/1.m3u8
-黑龙江影视,http://39.134.65.106/PLTV/88888888/224/3221225973/1.m3u8
-黑龙江少儿,http://39.134.65.106/PLTV/88888888/224/3221225979/1.m3u8
-黑龙江农科,http://39.134.65.106/PLTV/88888888/224/3221225994/1.m3u8
-睛彩青少,http://39.134.65.106/PLTV/88888888/224/3221226053/1.m3u8
-睛彩竞技,http://39.134.65.106/PLTV/88888888/224/3221225897/1.m3u8
-睛彩篮球,http://39.134.65.106/PLTV/88888888/224/3221225895/1.m3u8
-睛彩广场舞,http://39.134.65.106/PLTV/88888888/224/3221226046/1.m3u8
-
 NewTV,#genre#
 金牌综艺,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236282/1.m3u8
 潮婆辣妈,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236167/1.m3u8
@@ -309,9 +249,8 @@ AKTV,#genre#
 鳳凰香港,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
 AXN,http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
 ROCK Action,http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
-東森電影,http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
+好萊塢電影台http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
 東森洋片,http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
-好萊塢電影台,http://s1.an94tv.cfd/aktv2/CH-4/AKTV.m3u8
 美亞電影台(HK),http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
 天映电影,http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
 天映經典,http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8

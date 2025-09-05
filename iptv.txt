@@ -265,7 +265,7 @@ IHOT,#genre#
 咪视界30,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235589/1.m3u8
 咪视界4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235583/1.m3u8
 
-test,#genre#
+test_963963,#genre#
 BLACKED,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/6178/1.m3u8
 VIXEN,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/6265/1.m3u8
 PRIVATE,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/6245/1.m3u8

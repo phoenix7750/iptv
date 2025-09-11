@@ -7,6 +7,8 @@ urls:
 {"name": "🍄OK线路🍄","url": "http://ok321.top/ok"},
 {"name": "👀小马线路👀","url": "https://szyyds.cn/tv/x.json"},
 {"name": "🎀巧技线路🎀","url": "http://cdn.qiaoji8.com/tvbox.json"},
+{"name": "🍉自用省心🍉","url": "https://tvbox.catvod.com/catvod.json"},
+{"name": "⚽潇洒线路⚽","url": "https://tvbox.catvod.com/xs/api.json"},
 {"name": "🌟饭太硬🌟","url": "https://raw.bgithub.xyz/ls125781003/tvboxtg/main/饭太硬/api.json"},
 {"name": "🍎南风线路🍎","url": "https://raw.bgithub.xyz/ls125781003/tvboxtg/main/南风/api.json"},
 {"name": "💮小米线路💮","url": "https://raw.bgithub.xyz/ls125781003/tvboxtg/main/小米/api.json"},

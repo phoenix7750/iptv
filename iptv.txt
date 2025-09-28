@@ -61,6 +61,7 @@ CCTV16,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236716/1/1.m
 北京卫视4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236659/1/1.m3u8
 深圳卫视4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236657/1/1.m3u8
 广东卫视4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236661/1/1.m3u8
+浙江卫视4k,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 至臻视界4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235579/1.m3u8
 
 卫视,#genre#

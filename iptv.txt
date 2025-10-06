@@ -49,7 +49,6 @@ CHC家庭影院,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236
 东方影视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236375/1.m3u8
 睛彩竞技,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232629/1/1.m3u8
 睛彩篮球,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232657/1/1.m3u8
-都市剧场,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/1/1.m3u8
 茶频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229404/1/1.m3u8
 游戏风云,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236353/1.m3u8
 重温经典,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/1.m3u8
@@ -271,9 +270,3 @@ IHOT,#genre#
 咪视界29,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235588/1.m3u8
 咪视界30,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235589/1.m3u8
 咪视界4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235583/1.m3u8
-
-test_963963,#genre#
-BLACKED,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/6178/1.m3u8
-VIXEN,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/6265/1.m3u8
-PRIVATE,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/6245/1.m3u8
-JAPANHDV,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/6225/1.m3u8

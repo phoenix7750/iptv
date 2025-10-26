@@ -46,6 +46,8 @@ CCTV-4美洲,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236335
 凤凰资讯,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/1.m3u8
 高尔夫网球,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/1/1.m3u8
 CHC家庭影院,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236359/1.m3u8
+CHC动作电影,http://nas.201606.xyz:4022/rtp/239.10.0.87:5140
+CHC影迷电影,http://nas.201606.xyz:4022/rtp/239.10.0.88:5140
 东方影视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236375/1.m3u8
 睛彩竞技,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232629/1/1.m3u8
 睛彩篮球,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232657/1/1.m3u8
@@ -53,6 +55,19 @@ CHC家庭影院,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236
 游戏风云,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236353/1.m3u8
 重温经典,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/1.m3u8
 Y+剧场,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1/1.m3u8
+CCTV风云足球,http://113.106.171.234:8899/rtp/239.21.0.70:3620
+CCTV央视台球,http://113.106.171.234:8899/rtp/239.21.0.71:3624
+CCTV高尔夫网球,http://113.106.171.234:8899/rtp/239.21.0.72:3628
+CCTV女性时尚,http://113.106.171.234:8899/rtp/239.21.0.73:3632
+CCTV世界地理,http://113.106.171.234:8899/rtp/239.21.0.74:3636
+CCTV怀旧剧场,http://113.106.171.234:8899/rtp/239.21.0.75:3640
+CCTV风云剧场,http://113.106.171.234:8899/rtp/239.21.0.76:3644
+CCTV央视文化精品,http://113.106.171.234:8899/rtp/239.21.0.77:3648
+CCTV第一剧场,http://113.106.171.234:8899/rtp/239.21.0.78:3652
+CCTV风云音乐,http://113.106.171.234:8899/rtp/239.21.0.79:3656
+CCTV兵器科技,http://113.106.171.234:8899/rtp/239.21.0.80:3660
+CCTV电视指南,http://113.106.171.234:8899/rtp/239.21.0.81:3664
+
 
 超高清,#genre#
 CCTV4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236655/1/1.m3u8
@@ -213,7 +228,6 @@ NewTV,#genre#
 精品大剧,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236239/1.m3u8
 古装剧场,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236240/1.m3u8
 武搏天下,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236247/1.m3u8
-黑莓电影,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236248/1.m3u8
 黑莓动画,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236261/1.m3u8
 中国功夫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236267/1.m3u8
 精品记录,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236276/1.m3u8

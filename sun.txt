@@ -1,4 +1,4 @@
-央视,#genre#,https://iptv.crestekk.cn/epgphp/index.php
+央视,#genre#
 CCTV-1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236450/1.m3u8
 CCTV-2,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236393/1.m3u8
 CCTV-3,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236397/1.m3u8
@@ -30,7 +30,6 @@ CHC家庭影院,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236
 睛彩竞技,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232629/1/1.m3u8
 睛彩篮球,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232657/1/1.m3u8
 至臻视界4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235579/1.m3u8
-Fashion,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 都市剧场,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/1/1.m3u8
 茶频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229404/1/1.m3u8
 游戏风云,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236353/1.m3u8
@@ -170,7 +169,6 @@ NewTV,#genre#
 精品大剧,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236239/1.m3u8
 古装剧场,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236240/1.m3u8
 武搏天下,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236247/1.m3u8
-黑莓电影,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236248/1.m3u8
 黑莓动画,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236261/1.m3u8
 中国功夫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236267/1.m3u8
 精品记录,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236276/1.m3u8

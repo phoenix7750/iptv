@@ -9,6 +9,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {"key":"七天","name":"七天","type":1,"api":"https://8day.icu/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
+{"key":"一滴","name":"一滴","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod","playUrl":"","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
+{"key":"饮水","name":"饮水","type":0,"api":"https://www.xrbsp.com/api/xml.php","playUrl":"","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
+{"key":"奶香","name":"奶香","type":1,"api":"https://naixxzy.com/api.php/provide/vod/?ac=list","playUrl":"","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
+{"key":"少女","name":"少女","type":0,"api":"https://www.msnii.com/api/xml.php","playUrl":"","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
+{"key":"爱妃","name":"爱妃","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
+{"key":"辣椒","name":"辣椒","type":0,"api":"http://api.11bat.com/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
+{"key":"资源","name":"资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
+{"key":"成一","name":"成人","type":0,"api":"https://www.pgxdy.com/api/xml.php","playUrl":"","searchable":1,"quickSearch":1,"changeable":1,"filterable":1},
     {
       "key": "探探资源",
       "name": "探探资源",

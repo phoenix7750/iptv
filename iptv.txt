@@ -46,8 +46,10 @@ CCTV-4美洲,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236335
 凤凰资讯,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/1.m3u8
 高尔夫网球,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/1/1.m3u8
 CHC家庭影院,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236359/1.m3u8
-CHC动作电影,http://nas.201606.xyz:4022/rtp/239.10.0.87:5140
-CHC影迷电影,http://nas.201606.xyz:4022/rtp/239.10.0.88:5140
+求索记录,http://39.134.184.82:6610/-/000000001001/6000000002000032052/1.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=m&IASHttpSessionId=RR271196820251223050534942291&ispcode=2000074
+求索动物,http://39.134.184.82:6610/-/000000001001/6000000002000010046/1.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=m&IASHttpSessionId=RR271196820251223050534942291&ispcode=2000074
+求索生活,http://39.134.184.82:6610/-/000000001001/6000000002000003382/1.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=m&IASHttpSessionId=RR271196820251223050534942291&ispcode=2000074
+求索科学,http://39.134.184.82:6610/-/000000001001/6000000002000032344/1.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=m&IASHttpSessionId=RR271196820251223050534942291&ispcode=2000074
 东方影视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236375/1.m3u8
 睛彩竞技,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232629/1/1.m3u8
 睛彩篮球,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232657/1/1.m3u8

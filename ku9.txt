@@ -106,7 +106,6 @@ CCTV16 4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236716/1/
 浙江少儿频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233011/1/1.m3u8
 浙江新闻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/1/1.m3u8
 浙江之江记录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 嘉兴新闻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236662/1/1.m3u8
 嘉兴公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236664/1/1.m3u8
 嘉兴文化,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236603/1/1.m3u8

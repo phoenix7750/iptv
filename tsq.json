@@ -97,15 +97,6 @@
       "filterable": 1
     },
     {
-      "key": "快看",
-      "name": "快看",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "新6V",
       "name": "新6V",
       "type": 3,

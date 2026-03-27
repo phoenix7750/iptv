@@ -1,7 +1,7 @@
 {
 urls:
 [
-{"name": "💚独步云端💚","url": "https://gh-proxy.com/raw.githubusercontent.com/phoenix7750/iptv/main/tvbox.json"},
+{"name": "💚独步云端💚","url": "https://gh-proxy.com/raw.githubusercontent.com/phoenix7750/iptv/main/fty/fty.json"},
 {"name": "⚽CATVOD⚽","url": "https://gh-proxy.com/raw.githubusercontent.com/phoenix7750/iptv/main/tsq.json"},
 {"name": "🌟饭太硬🌟","url": "http://www.饭太硬.com/tv/"},
 {"name": "💖盒子迷💖","url": "https://盒子迷.top/禁止贩卖"},

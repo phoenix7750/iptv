@@ -42,3 +42,9 @@ CGTN纪录,webview://https://www.yangshipin.cn/tv/home?pid=600084781
 CCTV风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
 CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
+CCTV-1,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001859
+CCTV-2,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001800
+CCTV-3,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600001801
+北京卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002309
+江苏卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002521
+东方卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600002483

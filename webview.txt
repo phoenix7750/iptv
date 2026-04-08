@@ -64,3 +64,16 @@ CGTN阿语,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600084782
 西藏卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190403
 新疆卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600152138
 兵团卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600193252
+
+浙江,#genre#
+浙江卫视,https://bd-xwl.cztv.com/live/channel011080Plxw.m3u8
+浙江钱江都市,https://bd-xwl.cztv.com/live/channel021080Plxw.m3u8
+浙江经济生活,https://bd-xwl.cztv.com/live/channel031080Plxw.m3u8
+浙江教科影视,https://bd-xwl.cztv.com/live/channel041080Plxw.m3u8
+浙江民生休闲,https://bd-xwl.cztv.com/live/channel061080Plxw.m3u8
+浙江新闻,https://bd-xwl.cztv.com/live/channel071080Plxw.m3u8
+浙江少儿,https://bd-xwl.cztv.com/live/channel081080Plxw.m3u8
+浙江国际,https://bd-xwl.cztv.com/live/channel101080Plxw.m3u8
+浙江好易购,https://bd-xwl.cztv.com/live/channel111080Plxw.m3u8
+浙江之江纪录,https://bd-xwl.cztv.com/live/channel121080Plxw.m3u8
+

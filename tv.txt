@@ -7,8 +7,17 @@ urls:
 {"name": "💖盒子迷💖","url": "https://盒子迷.top/禁止贩卖"},
 {"name": "🐼肥猫线路🐼","url": "http://肥猫.com"},
 {"name": "🎀巧技线路🎀","url": "http://cdn.qiaoji8.com/tvbox.json"},
-{"name": "🅱️王二小🅱️","url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"},
+{"name": "💖菜妮丝💖","url": "https://tv.菜妮丝.top"},
+{"name": "🌟饭太硬🌟","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/饭太硬/api.json"},
 {"name": "🍎南风线路🍎","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/南风/api.json"},
+{"name": "💡OK线路💡","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/OK/api.json"},
+{"name": "👓PG线路👓","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/PG/api.json"},
+{"name": "💮小米线路💮","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/小米/api.json"},
+{"name": "🐟摸鱼儿🐟","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/摸鱼儿/api.json"},
+{"name": "🌟欧歌线路🌟","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/欧歌/api.json"},
+{"name": "💚潇洒线路💚","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/api.json"},
+{"name": "⚽肥猫线路⚽","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/肥猫/api.json"},
+{"name": "🐻王二小🐻","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/王二小/api.json"},
 {"name": "📺戏曲音乐📺","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/戏曲音乐/api.json"},
 {"name": "🍉少儿频道🍉","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/少儿频道/api.json"}
 ]

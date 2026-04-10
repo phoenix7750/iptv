@@ -13,7 +13,6 @@ urls:
 {"name": "👓PG线路👓","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/PG/api.json"},
 {"name": "💮小米线路💮","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/小米/api.json"},
 {"name": "🐟摸鱼儿🐟","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/摸鱼儿/api.json"},
-{"name": "🌟欧歌线路🌟","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/欧歌/api.json"},
 {"name": "💚潇洒线路💚","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/api.json"},
 {"name": "⚽肥猫线路⚽","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/肥猫/api.json"},
 {"name": "🐻王二小🐻","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/王二小/api.json"},

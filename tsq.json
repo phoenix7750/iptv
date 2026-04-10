@@ -152,15 +152,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{
-      "key": "番号",
-      "name": "番号",
-      "type": 0,
-      "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
     {
       "key": "天天",
       "name": "天天",
@@ -182,16 +173,6 @@
       "ext": "https://tvbox.catvod.com/js/wangwang.json"
     },
     {
-      "key": "4k",
-      "name": "4k",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tvbox.catvod.com/js/4k.json"
-    },
-    {
       "key": "晴天",
       "name": "晴天",
       "type": 3,
@@ -210,36 +191,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://tvbox.catvod.com/js/heihu.json"
-    },
-    {
-      "key": "5555kan",
-      "name": "55影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tvbox.catvod.com/js/5555kan.json"
-    },
-    {
-      "key": "guangun",
-      "name": "光棍",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tvbox.catvod.com/js/guangun.json"
-    },
-    {
-      "key": "qiyou",
-      "name": "奇优",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tvbox.catvod.com/js/qiyou.json"
     },
     {
       "key": "77ys",

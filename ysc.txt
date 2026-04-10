@@ -1,7 +1,7 @@
 {
 urls:
 [
-{"name": "💚独步云端💚","url": "https://gh-proxy.com/raw.githubusercontent.com/phoenix7750/iptv/main/fty.json"},
+{"name": "💚独步云端💚","url": "https://gh-proxy.com/raw.githubusercontent.com/phoenix7750/iptv/main/fty/fty.json"},
 {"name": "⚽CATVOD⚽","url": "https://gh-proxy.com/raw.githubusercontent.com/phoenix7750/iptv/main/tsq.json"},
 {"name": "🌟饭太硬🌟","url": "http://www.饭太硬.com/tv/"},
 {"name": "💖盒子迷💖","url": "https://盒子迷.top/禁止贩卖"},
@@ -17,8 +17,6 @@ urls:
 {"name": "⚽肥猫线路⚽","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/肥猫/api.json"},
 {"name": "🐻王二小🐻","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/王二小/api.json"},
 {"name": "📺戏曲音乐📺","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/戏曲音乐/api.json"},
-{"name": "🍉少儿频道🍉","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/少儿频道/api.json"},
-{"name": "🅱️JJ线路🅱️","url": "https://git.acwing.com/lw0704/66/-/raw/master/jjzx.json"},
-{"name": "💖🔞成人线路💖","url": "https://gh-proxy.com/raw.githubusercontent.com/phoenix7750/iptv/main/18.json"}
+{"name": "🍉少儿频道🍉","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/少儿频道/api.json"}
 ]
 }

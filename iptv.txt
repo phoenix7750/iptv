@@ -56,17 +56,6 @@ CHC家庭影院,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236
 游戏风云,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236353/1.m3u8
 重温经典,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/1.m3u8
 Y+剧场,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1/1.m3u8
-电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
-文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
-世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
-怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
-高网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 
 央视付费,#genre#
 电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub

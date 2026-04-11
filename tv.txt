@@ -7,7 +7,6 @@ urls:
 {"name": "💖盒子迷💖","url": "https://盒子迷.top/禁止贩卖"},
 {"name": "🐼肥猫线路🐼","url": "http://肥猫.com"},
 {"name": "🎀巧技线路🎀","url": "http://cdn.qiaoji8.com/tvbox.json"},
-{"name": "💖菜妮丝💖","url": "https://tv.菜妮丝.top"},
 {"name": "🌟饭太硬🌟","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/饭太硬/api.json"},
 {"name": "🍎南风线路🍎","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/南风/api.json"},
 {"name": "💡OK线路💡","url": "https://gh-proxy.com/raw.githubusercontent.com/ls125781003/tvboxtg/main/OK/api.json"},

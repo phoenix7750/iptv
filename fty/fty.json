@@ -82,8 +82,8 @@
       "name": "腾讯",
       "type": 3,
       "playerType": "2",
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/tx.js"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/tx.js"
     },
     {
       "key": "文采",

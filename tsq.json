@@ -70,6 +70,14 @@
       "ext": "https://tvbox.catvod.com/js/bili.js"
     },
     {
+            "key": "csp_Wwys",
+            "name": "🌾农民｜1080P",
+            "type": 3,
+            "api": "csp_Wwys",
+            "timeout": 12,
+            "ext": "https://vip.wwgz.cn:5200"
+        },
+    {
       "key": "ikanbot",
       "name": "ikanbot",
       "type": 3,

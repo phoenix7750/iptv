@@ -82,24 +82,24 @@
       "name": "💮爱奇艺┃秒播",
       "type": 3,
       "playerType": "2",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/aqy.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/aqy.js"
     },
     {
       "key": "优酷",
       "name": "🍉优酷┃秒播",
       "type": 3,
       "playerType": "2",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/yk.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/yk.js"
     },
     {
       "key": "腾讯",
       "name": "🍎腾讯┃秒播",
       "type": 3,
       "playerType": "2",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/tx.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/tx.js"
     },
     {
       "key": "搜狗",
@@ -114,16 +114,16 @@
       "name": "🍓芒果┃秒播",
       "type": 3,
       "playerType": "2",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/mgtv.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/mgtv.js"
     },
     {
       "key": "bili",
       "name": "🅱️bili┃秒播",
       "type": 3,
       "playerType": "2",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/bili.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/bili.js"
     },
     {
       "key": "文采",

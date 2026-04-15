@@ -154,17 +154,6 @@
       "ext": "rfOX1voDIQhH8epBwpmIsuSzojrZxdTnzy4lcpy3AAlFMxpf9CY77fshLs0O9fE94T6hWZAWnkpluC1p"
     },
     {
-      "key": "视界",
-      "name": "🍙视界┃多线",
-      "type": 3,
-      "api": "csp_AppSxGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuS1pDrb3t3j0G9nLcv9Hk5HJ1EK9mVu7apib64Gl9tN42ugKclqmXsYtX9DROtqWIyC+ajCEDTiGLA="
-    },
-    {
       "key": "播客",
       "name": "🦊播客┃多线",
       "type": 3,
@@ -185,6 +174,17 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "rfOb1uAWbkRHp7hdxprG9un3+TrS2dv+1y8lL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0kuzsmBOA4Uobe87udCDvyT6nSxuqjBjOinAoodBQAqNy7UE+qFZ1UBoc16Q=="
+    },
+     {
+      "key": "猫猫",
+      "name": "🐟猫猫┃多线",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+TrS2dv+1y8lL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0kuzomBOA4Uobe87udCDvyXaLcmpT5AzDxpSkECnVSqNy7UE+qFZ1UBoc16Q=="
     },
     {
       "key": "奥特",

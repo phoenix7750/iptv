@@ -78,6 +78,14 @@
       "changeable": 1
     },
     {
+      "key": "腾讯",
+      "name": "腾讯",
+      "type": 3,
+      "playerType": "2",
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/tx.js"
+    },
+    {
       "key": "文采",
       "name": "💮文采┃秒播",
       "type": 3,

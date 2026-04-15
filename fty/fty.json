@@ -66,14 +66,6 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       }
     },
-{
-      "key": "腾讯",
-      "name": "腾讯",
-      "type": 3,
-      "playerType": "2",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/tx.js"
-    },
     {
       "key": "厂长",
       "name": "📔厂长┃秒播",
@@ -84,6 +76,54 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "爱奇艺",
+      "name": "💮爱奇艺┃秒播",
+      "type": 3,
+      "playerType": "2",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/aqy.js"
+    },
+    {
+      "key": "优酷",
+      "name": "🍉优酷┃秒播",
+      "type": 3,
+      "playerType": "2",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/yk.js"
+    },
+    {
+      "key": "腾讯",
+      "name": "🍎腾讯┃秒播",
+      "type": 3,
+      "playerType": "2",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/tx.js"
+    },
+    {
+      "key": "搜狗",
+      "name": "🍄搜狗┃秒播",
+      "type": 3,
+      "playerType": "2",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/sg.js"
+    },
+ {
+      "key": "MGTV",
+      "name": "🍓芒果┃秒播",
+      "type": 3,
+      "playerType": "2",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/mgtv.js"
+    },
+    {
+      "key": "bili",
+      "name": "🅱️bili┃秒播",
+      "type": 3,
+      "playerType": "2",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/bili.js"
     },
     {
       "key": "文采",

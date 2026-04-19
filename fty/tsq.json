@@ -14,7 +14,7 @@
     },
     {
       "key": "玩偶",
-      "name": "👽玩偶哥哥┃4K弹幕",
+      "name": "👽玩偶哥哥",
       "type": 3,
       "api": "csp_WoGGGuard",
       "timeout": 30,
@@ -27,7 +27,7 @@
     },
     {
       "key": "MTV1",
-      "name": "🎙️易听音乐┃带歌词",
+      "name": "🎙️易听音乐",
       "type": 3,
       "api": "csp_MusicGuard",
       "style": {
@@ -41,7 +41,7 @@
     },
     {
       "key": "seed",
-      "name": "💡聚剧剧┃三盘",
+      "name": "💡聚剧剧",
       "type": 3,
       "api": "csp_SeedhubGuard",
       "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
@@ -55,7 +55,7 @@
     },
     {
       "key": "立播",
-      "name": "🌟立播┃秒播",
+      "name": "🌟立播秒播",
       "type": 3,
       "api": "csp_LibvioGuard",
       "timeout": 10,
@@ -68,7 +68,7 @@
     },
     {
       "key": "厂长",
-      "name": "📔厂长┃秒播",
+      "name": "📔厂长秒播",
       "type": 3,
       "api": "csp_NewCzGuard",
       "timeout": 10,
@@ -78,8 +78,16 @@
       "changeable": 1
     },
     {
+      "key": "腾讯",
+      "name": "🍎腾讯视频",
+      "type": 3,
+      "playerType": "2",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/tx.js"
+    },
+    {
       "key": "爱奇艺",
-      "name": "💮爱奇艺┃秒播",
+      "name": "💮爱奇艺视频",
       "type": 3,
       "playerType": "2",
       "api": "./lib/drpy2.min.js",
@@ -87,31 +95,23 @@
     },
     {
       "key": "优酷",
-      "name": "🍉优酷┃秒播",
+      "name": "🍉优酷视频",
       "type": 3,
       "playerType": "2",
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/yk.js"
     },
     {
-      "key": "腾讯",
-      "name": "🍎腾讯┃秒播",
-      "type": 3,
-      "playerType": "2",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/tx.js"
-    },
-    {
       "key": "搜狗",
-      "name": "🍄搜狗┃秒播",
+      "name": "🍄搜狗视频",
       "type": 3,
       "playerType": "2",
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/sg.js"
     },
- {
+    {
       "key": "MGTV",
-      "name": "🍓芒果┃秒播",
+      "name": "🍓芒果视频",
       "type": 3,
       "playerType": "2",
       "api": "./lib/drpy2.min.js",
@@ -119,7 +119,7 @@
     },
     {
       "key": "bili",
-      "name": "🅱️bili┃秒播",
+      "name": "🅱️bili视频",
       "type": 3,
       "playerType": "2",
       "api": "./lib/drpy2.min.js",
@@ -127,7 +127,7 @@
     },
     {
       "key": "文采",
-      "name": "💮文采┃秒播",
+      "name": "💮文采秒播",
       "type": 3,
       "api": "csp_JpysGuard",
       "timeout": 10,
@@ -138,7 +138,7 @@
     },
     {
       "key": "原创",
-      "name": "☀原创┃秒播",
+      "name": "☀原创秒播",
       "type": 3,
       "api": "csp_YCyzGuard",
       "timeout": 15,
@@ -149,7 +149,7 @@
     },
     {
       "key": "比特",
-      "name": "🍄比特┃秒播",
+      "name": "🍄比特秒播",
       "type": 3,
       "api": "csp_BttwooGuard",
       "timeout": 10,
@@ -159,7 +159,7 @@
     },
     {
       "key": "热播",
-      "name": "📺热播┃多线",
+      "name": "📺热播多线",
       "type": 3,
       "api": "csp_AppTTGuard",
       "timeout": 10,
@@ -171,7 +171,7 @@
     },
     {
       "key": "糯米",
-      "name": "🍓糯米┃多线",
+      "name": "🍓糯米多线",
       "type": 3,
       "api": "csp_NmyswvGuard",
       "timeout": 15,
@@ -181,7 +181,7 @@
     },
     {
       "key": "剧圈",
-      "name": "🐻剧圈┃多线",
+      "name": "🐻剧圈多线",
       "type": 3,
       "api": "csp_AppSxGuard",
       "timeout": 10,
@@ -192,7 +192,7 @@
     },
     {
       "key": "光影",
-      "name": "🌞光影┃多线",
+      "name": "🌞光影多线",
       "type": 3,
       "api": "csp_AppSxGuard",
       "timeout": 10,
@@ -203,7 +203,7 @@
     },
     {
       "key": "播客",
-      "name": "🦊播客┃多线",
+      "name": "🦊播客多线",
       "type": 3,
       "api": "csp_AppSxGuard",
       "timeout": 10,
@@ -214,7 +214,7 @@
     },
     {
       "key": "爱影",
-      "name": "👀爱影┃多线",
+      "name": "👀爱影多线",
       "type": 3,
       "api": "csp_AppSxGuard",
       "timeout": 10,
@@ -225,7 +225,7 @@
     },
     {
       "key": "猫猫",
-      "name": "🐟猫猫┃多线",
+      "name": "🐟猫猫多线",
       "type": 3,
       "api": "csp_AppSxGuard",
       "timeout": 10,
@@ -236,7 +236,7 @@
     },
     {
       "key": "奥特",
-      "name": "🏝奥特┃多线",
+      "name": "🏝奥特多线",
       "type": 3,
       "api": "csp_AueteGuard",
       "timeout": 10,
@@ -246,7 +246,7 @@
     },
     {
       "key": "荐片",
-      "name": "🐭荐片┃P2P",
+      "name": "🐭荐片P2P",
       "type": 3,
       "api": "csp_JPJGuard",
       "timeout": 10,
@@ -257,7 +257,7 @@
     },
     {
       "key": "新6V",
-      "name": "🧲新6V┃磁力",
+      "name": "🧲新6V磁力",
       "type": 3,
       "api": "csp_SixVGuard",
       "timeout": 10,
@@ -268,7 +268,7 @@
     },
     {
       "key": "咕咕",
-      "name": "🦉咕咕┃动漫",
+      "name": "🦉咕咕动漫",
       "type": 3,
       "api": "csp_AppSxGuard",
       "timeout": 10,
@@ -279,7 +279,7 @@
     },
     {
       "key": "Dm84",
-      "name": "🚌巴士┃动漫",
+      "name": "🚌巴士动漫",
       "type": 3,
       "api": "csp_Dm84Guard",
       "timeout": 10,
@@ -289,7 +289,7 @@
     },
     {
       "key": "Anime1",
-      "name": "🐾日本┃动漫",
+      "name": "🐾日本动漫",
       "type": 3,
       "api": "csp_Anime1Guard",
       "timeout": 10,
@@ -299,7 +299,7 @@
     },
     {
       "key": "88",
-      "name": "⚽88┃看球",
+      "name": "⚽88看球",
       "type": 3,
       "api": "csp_Sir88Guard",
       "timeout": 10,
@@ -310,21 +310,8 @@
       }
     },
     {
-      "key": "超全",
-      "name": "⚽超全┃看球",
-      "type": 3,
-      "api": "csp_ZbzGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q=="
-    },
-    {
       "key": "看球",
-      "name": "⚽手机┃看球",
+      "name": "⚽手机看球",
       "type": 3,
       "api": "csp_KanqiuGuard",
       "timeout": 10,
@@ -336,7 +323,7 @@
     },
     {
       "key": "MTV",
-      "name": "🎶明星┃MV",
+      "name": "🎶明星MV",
       "type": 3,
       "api": "csp_BiliGuard",
       "style": {
@@ -352,7 +339,7 @@
     },
     {
       "key": "有声小说",
-      "name": "🎧有声┃小说",
+      "name": "🎧有声小说",
       "type": 3,
       "api": "csp_Tingshu275Guard",
       "style": {
@@ -365,7 +352,7 @@
     },
     {
       "key": "Aid",
-      "name": "🚑急救┃教学",
+      "name": "🚑急救教学",
       "type": 3,
       "api": "csp_FirstAidGuard",
       "searchable": 0,
@@ -378,7 +365,7 @@
     },
     {
       "key": "虎牙js",
-      "name": "🐯虎牙┃直播",
+      "name": "🐯虎牙直播",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/虎牙.js",
@@ -394,7 +381,7 @@
     },
     {
       "key": "Bili",
-      "name": "🅱哔哔合集┃弹幕",
+      "name": "🅱哔哔合集",
       "type": 3,
       "api": "csp_BiliGuard",
       "style": {
@@ -410,7 +397,7 @@
     },
     {
       "key": "Biliych",
-      "name": "🅱哔哔演唱会┃弹幕",
+      "name": "🅱哔哔演唱会",
       "type": 3,
       "api": "csp_BiliGuard",
       "style": {
@@ -426,7 +413,7 @@
     },
     {
       "key": "少儿教育",
-      "name": "📚少儿┃教育",
+      "name": "📚少儿教育",
       "type": 3,
       "api": "csp_BiliGuard",
       "style": {
@@ -442,7 +429,7 @@
     },
     {
       "key": "小学课堂",
-      "name": "📚小学┃课堂",
+      "name": "📚小学课堂",
       "type": 3,
       "api": "csp_BiliGuard",
       "style": {
@@ -458,7 +445,7 @@
     },
     {
       "key": "初中课堂",
-      "name": "📚初中┃课堂",
+      "name": "📚初中课堂",
       "type": 3,
       "api": "csp_BiliGuard",
       "style": {
@@ -474,7 +461,7 @@
     },
     {
       "key": "高中教育",
-      "name": "📚高中┃课堂",
+      "name": "📚高中课堂",
       "type": 3,
       "api": "csp_BiliGuard",
       "style": {
@@ -495,23 +482,23 @@
     "fiizvfck.top=danmu.888484.xyz"
   ],
 "parses": [
- {"name": "默认A", "type":0, "url": "https://json.fongmi.cc/web?url="},
- {"name": "CK解析", "type":0, "url": "https://www.ckplayer.vip/jiexi/?url="},
- {"name": "Player-JY", "type":0, "url": "https://jx.playerjy.com/?url="},
- {"name": "虾米解析", "type":0, "url": "https://jx.xmflv.com/?url="},
- {"name": "789解析", "type":0, "url": "https://jiexi.789jiexi.icu:4433/?url="},
- {"name": "HLS解析", "type":0, "url": "https://jx.hls.one/?url="},
- {"name": "极速解析", "type":0, "url": "https://jx.2s0.cn/player/?url="},
- {"name": "冰豆解析", "type":0, "url": "https://bd.jx.cn/?url="},
- {"name": "剖元解析", "type":0, "url": "https://www.pouyun.com/?url="},
- {"name": "973解析", "type":0, "url": "https://jx.973973.xyz/?url="},
- {"name": "七哥解析", "type":0, "url": "https://jx.nnxv.cn/tv.php?url="},
+ {"name": "蜂迷", "type":0, "url": "https://json.fongmi.cc/web?url="},
+ {"name": "CK", "type":0, "url": "https://www.ckplayer.vip/jiexi/?url="},
+ {"name": "虾米", "type":0, "url": "https://jx.xmflv.com/?url="},
+ {"name": "789", "type":0, "url": "https://jiexi.789jiexi.icu:4433/?url="},
+ {"name": "HLS", "type":0, "url": "https://jx.hls.one/?url="},
+ {"name": "极速", "type":0, "url": "https://jx.2s0.cn/player/?url="},
+ {"name": "冰豆", "type":0, "url": "https://bd.jx.cn/?url="},
+ {"name": "剖元", "type":0, "url": "https://www.pouyun.com/?url="},
+ {"name": "973", "type":0, "url": "https://jx.973973.xyz/?url="},
+ {"name": "七哥", "type":0, "url": "https://jx.nnxv.cn/tv.php?url="},
  {"name": "盘古", "type":0, "url": "https://www.pangujiexi.com/jiexi/?url="},
+ {"name": "七七云", "type":0, "url": "https://jx.77flv.cc/?url="},
+ {"name": "芒果", "type":0, "url": "https://video.isyour.love/player/getplayer?url="},
  {"name": "playm3u8", "type":0, "url": "https://www.playm3u8.cn/jiexi.php?url="},
- {"name": "937解析", "type":0, "url": "https://bfq.937auth.vip?url="},
- {"name": "七七云解析", "type":0, "url": "https://jx.77flv.cc/?url="},
- {"name": "芒果TV1", "type":0, "url": "https://video.isyour.love/player/getplayer?url="},
+ {"name": "937", "type":0, "url": "https://bfq.937auth.vip?url="},
  {"name": "M1907", "type":0,"url":"https://im1907.top/?jx="},
+ {"name": "Player-JY", "type":0, "url": "https://jx.playerjy.com/?url="},
  {"name": "Yparse", "type":0, "url": "https://jx.yparse.com/index.php?url="}
  ],
   "lives": [

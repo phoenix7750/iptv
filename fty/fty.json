@@ -514,13 +514,6 @@
  {"name": "M1907", "type": "1,3","url":"https://im1907.top/?jx="},
  {"name": "Yparse", "type": "1,3", "url": "https://jx.yparse.com/index.php?url="}
  ],
-"hosts": [
-    "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
-  ],
   "lives": [
     {
       "name": "浙江移动",

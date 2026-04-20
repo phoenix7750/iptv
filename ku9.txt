@@ -121,6 +121,7 @@ CCTV16 4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236716/1/
 嘉兴新闻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236662/1/1.m3u8
 嘉兴公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236664/1/1.m3u8
 嘉兴文化,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236603/1/1.m3u8
+绍兴影视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236760/1/1.m3u8
 湖州新闻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236674/1/1.m3u8
 温州新闻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236599/1/1.m3u8
 衢州新闻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236658/1/1.m3u8
@@ -134,6 +135,7 @@ CCTV16 4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236716/1/
 宁波二套,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236613/1/1.m3u8
 宁波三套,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236611/1/1.m3u8
 宁波四套,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236609/1/1.m3u8
+舟山新闻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236762/1/1.m3u8
 普陀电视台,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236558/1/1.m3u8
 
 NewTV,#genre#

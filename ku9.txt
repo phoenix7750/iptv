@@ -142,6 +142,7 @@ CCTV16,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236716/1/1.m
 宁波四套,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236609/1/1.m3u8
 温州新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236599/1/1.m3u8
 普陀电视台,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236558/1/1.m3u8
+
 NewTV,#genre#
 金牌综艺,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236282/1.m3u8
 潮婆辣妈,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236167/1.m3u8

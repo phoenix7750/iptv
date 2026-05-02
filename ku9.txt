@@ -1,4 +1,4 @@
-央视8M,#genre#,http://diyp.fans/diyp/epg.php
+央视8M,#genre#,http://epg.cdn.loc.cc
 CCTV-1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/1/1.m3u8
 CCTV-2,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228348/1/1.m3u8
 CCTV-3,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232596/1/1.m3u8

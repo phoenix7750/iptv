@@ -3,7 +3,7 @@ urls:
 [
 {"name": "💚独步云端💚","url": "https://gh.catmak.name/https://raw.githubusercontent.com/phoenix7750/iptv/main/fty/tsq.json"},
 {"name": "⚽CATVOD⚽","url": "https://gh.catmak.name/https://raw.githubusercontent.com/phoenix7750/iptv/main/tsq.json"},
-{"name": "🌟饭太硬🌟","url": "http://fty.xxooo.cf/tv"},
+{"name": "🌟饭太硬🌟","url": "http://www.饭太硬.cc/tv"},
 {"name": "💖盒子迷💖","url": "https://盒子迷.top/禁止贩卖"},
 {"name": "💚菜妮丝💚","url": "https://tv.菜妮丝.top"},
 {"name": "🐼肥猫线路🐼","url": "http://肥猫.net"},
